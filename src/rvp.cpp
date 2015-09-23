@@ -1,3 +1,4 @@
+#include <zlib.h>
 #include "util.h"
 #include "rvp.h"
 
@@ -5,34 +6,38 @@
 Rvp::Rvp(const char* file)
 {
 	strcpy(_path, file);
-	_file.open(filename, ios::in|ios::binary);
+	_file.open(file, ios::in|ios::binary);
 
-	//read head
-	memset(&_head, 0, sizeof(_head));
-	_file.seekg(0);
-	_file.read((char *)&_head, sizeof(_head));
+	_file.seekg(0, ios::end);
+    uint32 total = _file.tellg();
 
-    PkgFile* files = new PkgFile[_head.filecount];
+    char head[7];
+	_file.seekg(0, ios::beg);
+	_file.read((char *)head, 7);
 
-    char* p = (char *)files;
-    int   n =  sizeof(PkgFile) * _head.filecount;
-	_file.seekg(_head.tbloffset);
-    _file.read(p, n);
+    uint32 offset;
+	_file.read((char *)&offset, 4);
+	_file.seekg(offset, ios::beg);
 
-    if(_head.encrypt == '1')
+    while(_file.tellg() < total)
     {
-        char* key = _head.version;
-        char  max = strlen(_head.version) - 1;
-        for(int i = 0; i < n; i++)
-            for(int j = max; j >= 0; j--)
-                p[i] ^= key[j];
+        RvpFile f;
+        memset((char*)&f, 0, sizeof(f));
+
+        uint32 n;
+	    _file.read((char *)&n, 4);
+	    _file.read((char *)f.name, n);
+	    _file.read((char *)&f.flag, 1);
+	    _file.read((char *)&f.offset, 4);
+	    _file.read((char *)&f.size1, 4);
+	    _file.read((char *)&f.size2, 4);
+
+        _list.push_back(f);
+
+        //cout << f.name << " flag " << (int)f.flag << " " << f.offset << " " << f.size1 << " " << f.size2 << endl;
     }
 
-    for(int i = 0; i < _head.filecount; i++)
-    {
-        _list.push_back(files[i]);
-    }
-    delete[] files;
+    cout << _list.size() << endl;
 }
 
 
@@ -47,38 +52,48 @@ void Rvp::save()
     char path[255];
     for(int i = 0; i < _list.size(); i++)
     {
-        PkgFile v = _list[i];
-        if(v.weakuse == '0')
-        {
-            cout << "[WEAK]" << v.path << endl;
-            continue;
-        }
+        RvpFile v = _list[i];
+        
 
-        strcpy(path, "out/");
-        strcpy(path + 4, v.path);
+        strcpy(path, "out");
+        strcpy(path + 3, v.name);
         for(int t = 0; t < strlen(path); t++)
             if(path[t] == '\\')
                 path[t] = '/';
 
+
+        char* buf = new char[v.size1];
+	    _file.seekg(v.offset);
+        _file.read(buf, v.size1);
+
         cout << "[SAVE]" << path << endl;
-
-        if(v.zipsize == 0 && v.ziptype == 0)
+        Util::mkdir(path);
+        ofstream fout(path, ios::out|ios::binary);
+        if(v.flag == 0)
         {
-            Util::mkdir(path);
-            ofstream fout(path, ios::out|ios::binary);
-            char* buf = new char[v.rawsize];
-
-	        _file.seekg(v.offset);
-            _file.read(buf, v.rawsize);
-            fout.write(buf, v.rawsize);
-            fout.close();
-
-            delete[] buf;
+            fout.write(buf, v.size1);
         }
         else
         {
-            cout << "[ERROR]ZIP=============================================\n" << endl;
+            uLongf len = v.size2;
+            Bytef* zip = new Bytef[len];
+            int err = uncompress(zip, &len, (const Bytef*)buf, v.size1);
+            if (err == Z_OK && len == v.size2)
+            {
+                fout.write((const char*)zip, len);
+                delete[] zip;
+            }
+            else
+            {
+                delete[] zip;
+                cerr << "uncompess error: " << err << '\n';
+                exit(1);
+            }
         }
+
+        fout.close();
+
+        delete[] buf;
     }
 }
 

@@ -4,20 +4,14 @@
 #include "define.h"
 
 
-#pragma pack(4)
-typedef struct _RvpHead
-{
-    char   filexx[7]; 
-	uint32 offset;
-} RvpHead;
-
+#pragma pack(1)
 typedef struct _RvpFile
 {
-    char   name[7]; 
+    char   name[255]; 
     uint8  flag;
+	uint32 offset;
     uint32 size1;
     uint32 size2;
-	uint32 offset;
 } RvpFile;
 #pragma pack()
 
@@ -33,7 +27,6 @@ public:
 	char 	 _path[255];
 	ifstream _file;
 
-	RvpHead         _head;
 	vector<RvpFile> _list;
 };
 

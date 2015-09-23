@@ -14,6 +14,7 @@ void work(const char *path)
 {
     cout << "[Read]" << path << endl;
 	TestClass tt(path);
+    tt.save();
 }
 
 int main(int argc, char* argv[])

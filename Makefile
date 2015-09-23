@@ -19,7 +19,7 @@ OBJS += $(SRC1:%.cpp=obj/%.o)
 all:$(OBJS)
 	@echo [M]Link...
 	@mkdir -p bin
-	g++ -g $(OBJS) -o bin/$(TARGET)
+	g++ -g $(OBJS) -o bin/$(TARGET) -lz
 
 
 obj/%.o:%.cpp
