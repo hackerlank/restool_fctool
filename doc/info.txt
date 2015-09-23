@@ -1,0 +1,179 @@
+FantasyCollege
+To cheer myself up, I make a quick importer of Fantasy College Online. Everything finished within just hours! Will release the importer later in my FB. 轉換一下心...
+分享
+评论
+Fatduck Gaming
+Fatduck Gaming 說過會放出來的
+
+CMF format (Skin Model)
+=======================
+struct Header {
+char[4] Header_String //CMF\0
+dword Version
+dword Num_Object
+}
+
+struct Object {
+dword UV_Flag //Something related to UV scales
+dword Num_Verts
+dword Num_Faces
+dword Unknown
+dword Unknown
+dword Num_UV
+struct Vert {
+float[3] Coord_XYZ
+float[3] Normal_XYZ
+struct UV { //* depand on Num_UV
+float[2] Tex_UV
+}
+long[2] Unknown
+dword Num_Skin
+struct Skin {
+dword Bone_Index
+float Weight
+}
+} 
+struct Face {
+word[3] Index_123
+}
+}
+查看翻译
+5月21日下午 3:27 · 已编辑
+Fatduck Gaming
+Fatduck Gaming CSF format (Skeleton)
+=====================
+struct Header {
+char[4] Header_String //CSF\0
+dword Version
+dword Num_Bones
+}
+
+struct Bone {
+dword String_Length
+char[String_Length] Bone_Name
+float[3] Bone_Position_XYZ
+float[4] Bone_Rotation_Quat_XYZW
+float[3] Bone_Position_XYZ
+float[4] Bone_Rotation_Quat_XYZW
+dword Parent_Index
+dword Num_Chindren
+struct Child {
+dword Child_Index
+}
+}
+查看翻译
+5月21日下午 3:28 · 已编辑
+Fatduck Gaming
+Fatduck Gaming CAF format (Animation)
+======================
+struct Header {
+char[4]	Header_String	//CAF\0
+dword	Version
+float	Animation_Length
+dword	Num_Bone
+}
+
+struct Bone_Anim {
+dword	Bone_ID
+dword	Num_Keys
+Struct Key_Anim {
+float	Key_Time
+float[3]	Translate_XYZ
+float[4]	Roate_Quat_XYZW
+}
+}
+查看翻译
+5月21日下午 3:29
+Fatduck Gaming
+Fatduck Gaming polygonsoup format (Static Model)
+=================================
+char[7]	Header_String	//OPT_PGS
+dword	Version
+float[6]	BoundingBox_Min_Max
+dword	Num_Material
+
+struct Material {
+dword	String_Length
+char[String_Length] Geometry_Name
+dword	String_Length
+char[String_Length] Material_Name
+}
+
+dword	Num_Geometry
+
+struct Geometry {
+byte	Vert_Flag
+
+byte	Normal_Flag
+byte	UV_Flag
+byte	UV2_Flag
+byte	Face_Flag
+struct Vert {
+float[3]	Coord_XYZ
+}
+struct Normal {
+float[3]	Normal_XYZ
+}
+struct UV {
+float[2]	Tex_UV
+}
+struct Face {
+word[3]	Index_123
+}
+}
+查看翻译
+5月21日下午 3:29
+Fatduck Gaming
+Fatduck Gaming keyframe format (Vertex Animation)
+==================================
+struct Header {
+char[7]	Header_String	//OPT_PGS
+dword	Version
+float[6]	BoundingBox_Min_Max
+byte	Flag??
+dword	Num_Keys
+dword	Unknown
+float	Unknown
+word	Num_Animation
+}
+
+struct Anm_Key {
+float	Time_Increasement
+}
+
+struct Anm_Info {
+byte	String_Length
+char[String_Length] Animation_Name
+dword	Animation_Start
+dword	Num_Anm_Keys
+}
+
+struct Material {
+byte	Num_Material
+struct Mtl {
+byte	String_Length
+char[String_Length] Material_Name
+}
+}
+
+struct Vert_Mesh {
+dword	Num_Verts
+dword	Num_Face_Indices
+struct UV {
+float[2]	Tex_UV
+}
+struct Face {
+word[3]	Index_123
+}
+struct Anm_Vert {
+float	Time_interval
+struct Vert {
+float[3]	Coord_XYZ
+}
+struct Normal {
+float[3]	Normal_XYZ
+}
+}
+}
+查看翻译
+5月21日下午 3:29

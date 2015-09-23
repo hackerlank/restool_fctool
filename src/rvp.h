@@ -11,6 +11,14 @@ typedef struct _RvpHead
 	uint32 offset;
 } RvpHead;
 
+typedef struct _RvpFile
+{
+    char   name[7]; 
+    uint8  flag;
+    uint32 size1;
+    uint32 size2;
+	uint32 offset;
+} RvpFile;
 #pragma pack()
 
 
@@ -26,7 +34,7 @@ public:
 	ifstream _file;
 
 	RvpHead         _head;
-	vector<PkgFile> _list;
+	vector<RvpFile> _list;
 };
 
 
