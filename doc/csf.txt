@@ -1,0 +1,24 @@
+CSF format (Skeleton)
+=====================
+struct Header {
+    char[4] Header_String //CSF\0
+    dword   Version
+    dword   Num_Bones
+}
+
+struct Bone {
+    dword String_Length
+    char[String_Length] Bone_Name
+
+    float[3] Bone_Position_XYZ
+    float[4] Bone_Rotation_Quat_XYZW
+    float[3] Bone_Position_XYZ
+    float[4] Bone_Rotation_Quat_XYZW
+
+    dword Parent_Index
+    dword Num_Chindren
+
+    struct Child {
+        dword Child_Index
+    }
+}

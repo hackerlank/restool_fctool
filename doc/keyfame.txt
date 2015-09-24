@@ -1,0 +1,51 @@
+keyframe format (Vertex Animation)
+==================================
+struct Header {
+    char[7]	Header_String	//OPT_PGS
+    dword	Version
+    float[6]	BoundingBox_Min_Max
+    byte	Flag??
+    dword	Num_Keys
+    dword	Unknown
+    float	Unknown
+    word	Num_Animation
+}
+
+struct Anm_Key {
+    float	Time_Increasement
+}
+
+struct Anm_Info {
+    byte	String_Length
+    char[String_Length] Animation_Name
+    dword	Animation_Start
+    dword	Num_Anm_Keys
+}
+
+struct Material {
+    byte    Num_Material
+    struct  Mtl {
+        byte	String_Length
+        char[String_Length] Material_Name
+    }
+}
+
+struct Vert_Mesh {
+    dword	Num_Verts
+    dword	Num_Face_Indices
+    struct UV {
+    float[2]	Tex_UV
+    }
+    struct Face {
+        word[3]	Index_123
+    }
+    struct Anm_Vert {
+        float	Time_interval
+        struct Vert {
+            float[3]	Coord_XYZ
+        }
+        struct Normal {
+            float[3]	Normal_XYZ
+        }
+    }
+}

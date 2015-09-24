@@ -1,0 +1,36 @@
+polygonsoup format (Static Model)
+=================================
+char[7]	    Header_String	//OPT_PGS
+dword	    Version
+float[6]	BoundingBox_Min_Max
+dword	    Num_Material
+
+struct Material {
+    dword	String_Length
+    char[String_Length] Geometry_Name
+    dword	String_Length
+    char[String_Length] Material_Name
+}
+
+dword	Num_Geometry
+
+struct Geometry {
+    byte	Vert_Flag
+    byte	Normal_Flag
+    byte	UV_Flag
+    byte	UV2_Flag
+    byte	Face_Flag
+
+    struct Vert {
+        float[3]	Coord_XYZ
+    }
+    struct Normal {
+        float[3]	Normal_XYZ
+    }
+    struct UV {
+        float[2]	Tex_UV
+    }
+    struct Face {
+        word[3]	    Index_123
+    }
+}

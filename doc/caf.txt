@@ -1,0 +1,18 @@
+CAF format (Animation)
+======================
+struct Header {
+    char[4]	Header_String	//CAF\0
+    dword	Version
+    float	Animation_Length
+    dword	Num_Bone
+}
+
+struct Bone_Anim {
+    dword	Bone_ID
+    dword	Num_Keys
+    Struct  Key_Anim {
+        float	    Key_Time
+        float[3]	Translate_XYZ
+        float[4]	Roate_Quat_XYZW
+    }
+}

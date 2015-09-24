@@ -1,0 +1,36 @@
+CMF format (Skin Model)
+=======================
+struct Header {
+    char[4] Header_String //CMF\0
+    dword   Version
+    dword   Num_Object
+}
+
+struct Object {
+    dword UV_Flag //Something related to UV scales
+    dword Num_Verts
+    dword Num_Faces
+    dword Unknown
+    dword Unknown
+    dword Num_UV
+
+    struct Vert {
+        float[3] Coord_XYZ
+        float[3] Normal_XYZ
+
+        struct UV { //* depand on Num_UV
+            float[2] Tex_UV
+        }
+
+        long[2] Unknown
+
+        dword Num_Skin
+        struct Skin {
+            dword Bone_Index
+            float Weight
+        }
+    } 
+    struct Face {
+        word[3] Index_123
+    }
+}
