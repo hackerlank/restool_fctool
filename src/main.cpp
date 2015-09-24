@@ -2,11 +2,15 @@
 #include <cmath>
 #include "util.h"
 #include "rvp.h"
+#include "csf.h"
 
 using namespace std;
 
-#define TestClass Rvp
-#define TestFiles "../data.rvp"
+//#define TestClass Rvp
+//#define TestFiles "../data.rvp"
+
+#define TestClass Csf
+#define TestFiles "res/bao00.csf"
 
 
 
