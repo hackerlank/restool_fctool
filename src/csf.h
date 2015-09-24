@@ -19,7 +19,6 @@ typedef struct _CsfBone
     vector<int32> children;
 
     Matrix4f* mat;
-    Matrix4f* invmat;
 } CsfBone;
 #pragma pack()
 
@@ -33,7 +32,6 @@ public:
 	void save();
 
     Matrix4f* getMatById(int id);
-    Matrix4f* getMatByIdInv(int id);
 public:
 	char 	 _path[255];
 	ifstream _file;
