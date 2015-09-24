@@ -3,16 +3,19 @@
 #include "util.h"
 #include "rvp.h"
 #include "csf.h"
+#include "caf.h"
 
 using namespace std;
 
 //#define TestClass Rvp
 //#define TestFiles "../data.rvp"
 
-#define TestClass Csf
-#define TestFiles "res/bao00.csf"
+//#define TestClass Csf
+//#define TestFiles "res/bao00.csf"
 
 
+#define TestClass Caf
+#define TestFiles "res/zhanli.caf"
 
 void work(const char *path)
 {

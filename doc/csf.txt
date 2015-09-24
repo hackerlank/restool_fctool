@@ -6,12 +6,17 @@ struct Header {
     dword   Num_Bones
 }
 
+
+//注意生成矩阵是旋转和位移的计算顺序
 struct Bone {
     dword String_Length
     char[String_Length] Bone_Name
 
+    //Bone矩阵(相对)
     float[3] Bone_Position_XYZ
     float[4] Bone_Rotation_Quat_XYZW
+
+    //Bone逆矩阵(绝对)
     float[3] Bone_Position_XYZ
     float[4] Bone_Rotation_Quat_XYZW
 
