@@ -4,6 +4,7 @@
 #include "rvp.h"
 #include "csf.h"
 #include "caf.h"
+#include "cmf.h"
 
 using namespace std;
 
@@ -13,9 +14,13 @@ using namespace std;
 //#define TestClass Csf
 //#define TestFiles "res/bao00.csf"
 
+//#define TestClass Caf
+//#define TestFiles "res/zhanli.caf"
 
-#define TestClass Caf
-#define TestFiles "res/zhanli.caf"
+#define TestClass Cmf
+//#define TestFiles "res/bao00.cmf"
+#define TestFiles "./out/zhujue/boy/trouser/tui042b.cmf"
+
 
 void work(const char *path)
 {

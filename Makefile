@@ -38,6 +38,11 @@ run: all
 clean:
 	rm -rf bin
 	rm -rf obj
+	rm -rf core
+
+cleanall:
+	rm -rf bin
+	rm -rf obj
 	rm -rf out/*
 	rm -rf core
 

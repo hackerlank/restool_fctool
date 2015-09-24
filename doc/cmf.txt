@@ -31,6 +31,6 @@ struct Object {
         }
     } 
     struct Face {
-        word[3] Index_123
+        dword[3] Index_123 //这里fatduck的格式错误,是dword不是word
     }
 }
