@@ -67,19 +67,16 @@ void Csf::save()
     for(int i = 0; i < _list.size(); i++)
     {
         CsfBone b = _list[i];
+
+        int8 id = (int8)i;
+        fout.write((char *)&id, 1);
+
         int8 bp = (int8)b.parent;
         fout.write((char *)&bp, 1);
 
-        uint16 bs = strlen(b.name);
-        fout.write((char *)&bs, 2);
+        uint8 bs = strlen(b.name);
+        fout.write((char *)&bs, 1);
         fout.write((char *)b.name, bs);
-
-
-	    //Matrix4f m1 = Matrix4f::TransMat(b.pos.x, b.pos.y, b.pos.z);
-	    //Matrix4f m2(Quaternion(b.rot.x, b.rot.y, b.rot.z, b.rot.w));
-        //Matrix4f m3 = m1 * m2;
-        //m3.print();
-        //m3.inverted().print();
 
 
 	    Matrix4f m4 = Matrix4f::TransMat(b.invpos.x, b.invpos.y, b.invpos.z);

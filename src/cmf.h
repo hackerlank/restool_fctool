@@ -11,8 +11,10 @@ typedef struct _CmfVert
     vec3 pos;
     vec3 normal;
 
+    int  uvN;
     vec2 uv[4];
 
+    uint32 bindN;
     uint32 boneid[4];
     float  weight[4];
 } CmfVert;

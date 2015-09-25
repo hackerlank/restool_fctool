@@ -64,7 +64,13 @@ void Caf::save()
     int frameN = _time / dt;
     fout.write((char *)&frameN, 4);
 
-    int boneN = 60;
+    int boneN = _list.size();
+    for(int i = 0; i < _list.size(); i++)
+    {
+        CafAnim anim = _list[i];
+        if(boneN < anim.boneid)
+            boneN = anim.boneid;
+    }
     fout.write((char *)&boneN, 4);
 
     float t = 0;
@@ -75,7 +81,9 @@ void Caf::save()
         for(int j = 0; j < boneN; j++)
         {
             KeyData data = getKeyData(j, t);
-            fout.write((char *)&data, 10);
+            fout.write((char *)&data, 4 * 10);
+            //cout << "pos " << data.pos.x << " " << data.pos.y << " " << data.pos.z << endl;
+            //cout << "rot " << data.rot.x << " " << data.rot.y << " " << data.rot.z << " " << data.rot.w << endl;
         }
     }
 
@@ -104,15 +112,26 @@ KeyData Caf::getKeyData(int boneid, float time)
                 {
                     KeyAnim k1 = anim.list[j-1];
 
-                    float k = (time - k1.time)/(k2.time - k1.time);
-                    d.pos.x = k1.pos.x * (1.0f - k) + k2.pos.x * k;
-                    d.pos.y = k1.pos.y * (1.0f - k) + k2.pos.y * k;
-                    d.pos.z = k1.pos.z * (1.0f - k) + k2.pos.z * k;
+                    //float k = (time - k1.time)/(k2.time - k1.time);
+                    //d.pos.x = k1.pos.x * (1.0f - k) + k2.pos.x * k;
+                    //d.pos.y = k1.pos.y * (1.0f - k) + k2.pos.y * k;
+                    //d.pos.z = k1.pos.z * (1.0f - k) + k2.pos.z * k;
 
-                    d.rot.x = k1.rot.x * (1.0f - k) + k2.rot.x * k;
-                    d.rot.y = k1.rot.y * (1.0f - k) + k2.rot.y * k;
-                    d.rot.z = k1.rot.z * (1.0f - k) + k2.rot.z * k;
-                    d.rot.w = k1.rot.w * (1.0f - k) + k2.rot.w * k;
+                    //d.rot.x = k1.rot.x * (1.0f - k) + k2.rot.x * k;//0x
+                    //d.rot.y = k1.rot.y * (1.0f - k) + k2.rot.y * k;//1y
+                    //d.rot.z = k1.rot.z * (1.0f - k) + k2.rot.z * k;//2z
+                    //d.rot.w = k1.rot.w * (1.0f - k) + k2.rot.w * k;//3w
+
+
+
+                    d.pos.x = k1.pos.x;
+                    d.pos.y = k1.pos.y;
+                    d.pos.z = k1.pos.z;
+                                      
+                    d.rot.x = k1.rot.x;
+                    d.rot.y = k1.rot.y;
+                    d.rot.z = k1.rot.z;
+                    d.rot.w = k1.rot.w;
 
                     return d;
                 }

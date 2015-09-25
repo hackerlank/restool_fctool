@@ -43,16 +43,21 @@ Cmf::Cmf(const char* file)
 	        _file.read((char *)&v.pos, sizeof(vec3));
 	        _file.read((char *)&v.normal, sizeof(vec3));
 
-            for(int k = 0; k < uvN; k++)
-	            _file.read((char *)&v.uv[k], sizeof(vec2));
-
-            uint32 tmp;
+            float tmp;
             for(int k = 0; k < 2; k++)
+            {
 	            _file.read((char *)&tmp, 4);
+            }
 
-            uint32 bindN;
-	        _file.read((char *)&bindN, 4);
-            for(int k = 0; k < bindN; k++)
+            v.uvN = uvN;
+            for(int k = 0; k < uvN; k++)
+            {
+	            _file.read((char *)&v.uv[k], sizeof(vec2));
+                v.uv[k].y = 1.0f - v.uv[k].y;
+            }
+
+	        _file.read((char *)&v.bindN, 4);
+            for(int k = 0; k < v.bindN; k++)
             {
 	            _file.read((char *)&v.boneid[k], 4);
 	            _file.read((char *)&v.weight[k], 4);
@@ -80,37 +85,59 @@ Cmf::~Cmf()
 
 void Cmf::save()
 {
-    /*  
-    char path[255];
-    strcpy(path, "aries/");
-    strcpy(path + 6, _path);
-    strcpy(path + strlen(path) - 4, ".skel");
-
-    cout << "[SAVE]" << path << endl;
-    Util::mkdir(path);
-    ofstream fout(path, ios::out|ios::binary);
-
-    float dt = 1.0f/30;
-    int frameN = _time / dt;
-    fout.write((char *)&frameN, 4);
-
-    int boneN = 60;
-    fout.write((char *)&boneN, 4);
-
-    float t = 0;
-    for(int i = 0; i < frameN; i++, t += dt)
+    for(int i = 0; i < _list.size(); i++)
     {
-        fout.write((char *)&dt, 4);
-
-        for(int j = 0; j < boneN; j++)
+        char path[255];
+        strcpy(path, "aries/");
+        strcpy(path + 6, _path);
+        if(i == 0)
         {
-            KeyData data = getKeyData(j, t);
-            fout.write((char *)&data, 10);
+            strcpy(path + strlen(path) - 4, ".skin");
+        }else
+        {
+            int p = strlen(path) - 4;
+            path[p] = (char)(48 + i);
+            strcpy(path + p + 1, ".skin");
         }
-    }
 
-    fout.close();
-    */
+        cout << "[SAVE]" << path << endl;
+        Util::mkdir(path);
+        ofstream fout(path, ios::out|ios::binary);
+
+
+        CmfMesh m = _list[i];
+
+        uint16 vertN = (uint16)m.vert.size();
+        fout.write((char *)&vertN, 2);
+        for(int j = 0; j < vertN; j++)
+        {
+            CmfVert v = m.vert[j];
+            fout.write((char *)&v.pos, sizeof(vec3));
+            fout.write((char *)&v.uv[0], sizeof(vec2));
+
+            uint8 bindN = (uint8)v.bindN;
+            fout.write((char *)&bindN, 1);
+            for(int k = 0; k < v.bindN; k++)
+            {
+                uint8 boneId = (uint8)v.boneid[k];
+                fout.write((char *)&boneId, 1);
+                fout.write((char *)&(v.weight[k]), 4);
+            }
+        }
+
+        uint16 faceN = (uint16)m.face.size();
+        fout.write((char *)&faceN, 2);
+        for(int j = 0; j < faceN; j++)
+        {
+            for(int k = 0; k < 3; k++)
+            {
+                uint16 ff = (uint16)m.face[j].idx[k];
+                fout.write((char *)&ff, 2);
+            }
+        }
+
+        fout.close();
+    }
 }
 
 
