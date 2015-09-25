@@ -91,7 +91,8 @@ void Csf::save()
         //m6.print();
         //getMatById(i)->inverted().print();
 
-        fout.write((char *)m6.x, 4 * 16);
+        //fout.write((char *)m6.inverted().x, 4 * 16);
+        fout.write((char *)(getMatById(i)->x), 4 * 16);
     }
 
     fout.close();
@@ -105,7 +106,7 @@ Matrix4f* Csf::getMatById(int id)
         return b.mat;
 
 
-    Matrix4f m1 = Matrix4f::TransMat(b.pos.x, b.pos.y, b.pos.z);
+    Matrix4f m1 = Matrix4f::TransMat(-b.pos.x, -b.pos.y, -b.pos.z);
 	Matrix4f m2(Quaternion(b.rot.x, b.rot.y, b.rot.z, b.rot.w));
     b.mat = new Matrix4f();
     (*(b.mat)) = m2 * m1;

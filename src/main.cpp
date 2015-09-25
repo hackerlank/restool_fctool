@@ -11,14 +11,14 @@ using namespace std;
 //#define TestClass Rvp
 //#define TestFiles "../data.rvp"
 
-#define TestClass Csf
-#define TestFiles "res/bao00.csf"
+//#define TestClass Csf
+//#define TestFiles "res/bao00.csf"
 
 //#define TestClass Caf
 //#define TestFiles "res/zhanli.caf"
 
-//#define TestClass Cmf
-//#define TestFiles "res/bao00.cmf"
+#define TestClass Cmf
+#define TestFiles "res/bao00.cmf"
 //#define TestFiles "./out/zhujue/boy/trouser/tui042b.cmf"
 
 

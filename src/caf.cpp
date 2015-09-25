@@ -116,26 +116,39 @@ KeyData Caf::getKeyData(int boneid, float time)
                 {
                     KeyAnim k1 = anim.list[j-1];
 
-                    //float k = (time - k1.time)/(k2.time - k1.time);
-                    //d.pos.x = k1.pos.x * (1.0f - k) + k2.pos.x * k;
-                    //d.pos.y = k1.pos.y * (1.0f - k) + k2.pos.y * k;
-                    //d.pos.z = k1.pos.z * (1.0f - k) + k2.pos.z * k;
+                    float k = (time - k1.time)/(k2.time - k1.time);
+                    d.pos.x = k1.pos.x * (1.0f - k) + k2.pos.x * k;
+                    d.pos.y = k1.pos.y * (1.0f - k) + k2.pos.y * k;
+                    d.pos.z = k1.pos.z * (1.0f - k) + k2.pos.z * k;
 
-                    //d.rot.x = k1.rot.x * (1.0f - k) + k2.rot.x * k;//0x
-                    //d.rot.y = k1.rot.y * (1.0f - k) + k2.rot.y * k;//1y
-                    //d.rot.z = k1.rot.z * (1.0f - k) + k2.rot.z * k;//2z
-                    //d.rot.w = k1.rot.w * (1.0f - k) + k2.rot.w * k;//3w
+                    d.rot.x = k1.rot.x * (1.0f - k) + k2.rot.x * k;//0x
+                    d.rot.y = k1.rot.y * (1.0f - k) + k2.rot.y * k;//1y
+                    d.rot.z = k1.rot.z * (1.0f - k) + k2.rot.z * k;//2z
+                    d.rot.w = k1.rot.w * (1.0f - k) + k2.rot.w * k;//3w
 
 
 
-                    d.pos.x = k1.pos.x;
-                    d.pos.y = k1.pos.y;
-                    d.pos.z = k1.pos.z;
-                                      
-                    d.rot.x = k1.rot.x;
-                    d.rot.y = k1.rot.y;
-                    d.rot.z = k1.rot.z;
-                    d.rot.w = k1.rot.w;
+                    //d.pos.x = k1.pos.x;
+                    //d.pos.y = k1.pos.y;
+                    //d.pos.z = k1.pos.z;
+                    //                  
+                    //d.rot.x = k1.rot.x;
+                    //d.rot.y = k1.rot.y;
+                    //d.rot.z = k1.rot.z;
+                    //d.rot.w = k1.rot.w;
+
+
+                    Quaternion q(
+                        d.rot.x,
+                        d.rot.y,
+                        d.rot.z,
+                        d.rot.w);
+
+                    q = q.inverted();
+                    d.rot.x = q.x;
+                    d.rot.y = q.y;
+                    d.rot.z = q.z;
+                    d.rot.w = q.w;
 
                     return d;
                 }

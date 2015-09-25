@@ -375,7 +375,7 @@ public:
 		float scale0 = 1 - t, scale1 = t;
 		
 		// Use spherical interpolation only if the quaternions are not very close
-		if( (1 - cosTheta) > 0.001f )
+		if( (1 - cosTheta) > 0.00001f )
 		{
 			// SLERP
 			float theta = acosf( cosTheta );
