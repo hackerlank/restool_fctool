@@ -82,8 +82,12 @@ void Caf::save()
         {
             KeyData data = getKeyData(j, t);
             fout.write((char *)&data, 4 * 10);
-            //cout << "pos " << data.pos.x << " " << data.pos.y << " " << data.pos.z << endl;
-            //cout << "rot " << data.rot.x << " " << data.rot.y << " " << data.rot.z << " " << data.rot.w << endl;
+            //if(i == 0)
+            //{
+            //    cout << j << endl;
+            //    cout << "pos " << data.pos.x << " " << data.pos.y << " " << data.pos.z << endl;
+            //    cout << "rot " << data.rot.x << " " << data.rot.y << " " << data.rot.z << " " << data.rot.w << endl;
+            //}
         }
     }
 

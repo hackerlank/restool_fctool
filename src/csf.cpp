@@ -27,6 +27,10 @@ Csf::Csf(const char* file)
 	    _file.read((char *)&b.pos, sizeof(vec3));
 	    _file.read((char *)&b.rot, sizeof(quat));
 
+        //cout << i << endl;
+        //cout << "pos " << b.pos.x << " " << b.pos.y << " " << b.pos.z << endl;
+        //cout << "rot " << b.rot.x << " " << b.rot.y << " " << b.rot.z << " " << b.rot.w << endl;
+ 
 	    _file.read((char *)&b.invpos, sizeof(vec3));
 	    _file.read((char *)&b.invrot, sizeof(quat));
 
