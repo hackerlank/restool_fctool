@@ -95,7 +95,7 @@ function scan(dir)
             if check_file(tex) then
                 p[i] = {v, tex}
             else 
-                local tex = string.gsub(v, "_", "-")
+                tex = string.gsub(tex, "_", "-")
                 if check_file(tex) then
                     p[i] = {v, tex}
                 else
@@ -111,14 +111,9 @@ end
 
 
 
-local list = {}
-local from = ... or "./"
-local dirs = exec("find "..from.." -type d")
-for i, dir in ipairs(dirs) do
-    local cfg = scan(dir)
-    list[dir] = cfg
-end
-cfg_save("cfg.lua", list)
+local dir = ... or "./"
+local cfg = scan(dir)
+cfg_save("cfg.lua", cfg)
 
 
 
