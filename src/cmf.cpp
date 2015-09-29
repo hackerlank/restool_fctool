@@ -35,7 +35,7 @@ Cmf::Cmf(const char* file)
         uint32 uvN;
 	    _file.read((char *)&uvN, 4);
 
-        //cout << "uv " << uvFlag << " uvNum " << uvN << " vertN " << vertN << endl; 
+        cout << "uvflag " << uvFlag << " ukn1 " << ukn1 << " ukn2 " << ukn2 << " uvNum " << uvN << " vertN " << vertN << endl; 
 
         for(int j = 0; j < vertN; j++)
         {
@@ -53,6 +53,86 @@ Cmf::Cmf(const char* file)
             for(int k = 0; k < uvN; k++)
             {
 	            _file.read((char *)&v.uv[k], sizeof(vec2));
+                if(k == 0)
+                {
+                    //cout << k << " " << v.uv[k].x << " " << v.uv[k].y << endl;
+                    if(uvFlag == 1)
+                    {
+                        v.uv[k].x = (v.uv[k].x - 0.25)*4;
+                        v.uv[k].y = (v.uv[k].y - 0.50)*4;
+                    }
+                    else if(uvFlag == 2)
+                    {
+                        v.uv[k].x = (v.uv[k].x - 0.50)*4;
+                        v.uv[k].y = (v.uv[k].y - 0.50)*4;
+                    }
+                    else if(uvFlag == 3)
+                    {
+                        v.uv[k].x = (v.uv[k].x - 0.75)*4;
+                        v.uv[k].y = (v.uv[k].y - 0.50)*4;
+                    }
+                    else if(uvFlag == 4)
+                    {
+                        v.uv[k].x = (v.uv[k].x - 0.00)*4;
+                        v.uv[k].y = (v.uv[k].y - 0.75)*4;
+                    }
+                    else if(uvFlag == 5)
+                    {
+                        v.uv[k].x = (v.uv[k].x - 0.25)*4;
+                        v.uv[k].y = (v.uv[k].y - 0.75)*4;
+                    }
+                    else if(uvFlag == 6)
+                    {
+                        v.uv[k].x = (v.uv[k].x - 0.50)*4;
+                        v.uv[k].y = (v.uv[k].y - 0.75)*4;
+                    }
+                    else if(uvFlag == 7)
+                    {
+                        v.uv[k].x = (v.uv[k].x - 0.75)*4;
+                        v.uv[k].y = (v.uv[k].y - 0.75)*4;
+                    }
+                    else if(uvFlag == 8)
+                    {
+                        v.uv[k].x = (v.uv[k].x - 0.75)*4;
+                        v.uv[k].y = (v.uv[k].y - 0.25)*4;
+                    }
+                    else if(uvFlag == 9)
+                    {
+                        v.uv[k].x = (v.uv[k].x - 0.00)*4;
+                        v.uv[k].y = (v.uv[k].y - 0.50)*4;
+                    }
+                    else if(uvFlag == 10)
+                    {
+                        //v.uv[k].x = (v.uv[k].x - 0.00)*4;
+                        //v.uv[k].y = (v.uv[k].y - 0.50)*4;
+                    }
+                    else if(uvFlag == 11)
+                    {
+                        //v.uv[k].x = (v.uv[k].x - 0.00)*4;
+                        //v.uv[k].y = (v.uv[k].y - 0.50)*4;
+                    }
+                    else if(uvFlag == 12)
+                    {
+                        v.uv[k].x = (v.uv[k].x - 0.00)*4;
+                        v.uv[k].y = (v.uv[k].y - 0.75)*4;
+                    }
+                    else if(uvFlag == 13)
+                    {
+                        v.uv[k].x = (v.uv[k].x - 0.25)*4;
+                        v.uv[k].y = (v.uv[k].y - 0.75)*4;
+                    }
+                    else if(uvFlag == 14)
+                    {
+                        //v.uv[k].x = (v.uv[k].x - 0.00)*4;
+                        //v.uv[k].y = (v.uv[k].y - 0.50)*4;
+                    }
+                    else if(uvFlag == 15)
+                    {
+                        //v.uv[k].x = (v.uv[k].x - 0.00)*4;
+                        //v.uv[k].y = (v.uv[k].y - 0.50)*4;
+                    }
+                }
+
                 v.uv[k].y = 1.0f - v.uv[k].y;
             }
 
