@@ -143,6 +143,13 @@ Cmf::Cmf(const char* file)
 	            _file.read((char *)&v.weight[k], 4);
             }
 
+            if(v.bindN > 4)
+            {
+                cout << "bineN " << v.bindN << " ";
+                for(int k = 0; k < v.bindN; k++)
+                    cout << v.weight[k] << " ";
+                cout << endl;
+            }
             b.vert.push_back(v);
         }
 
@@ -211,7 +218,7 @@ void Cmf::save()
         float w = 1.0f;
         for(int k = 0; k < bindN; k++)
         {
-            uint8 boneId = (uint8)v.boneid[k];
+            uint8 boneId = (uint8)v.boneid[v.bindN - k];
             fout.write((char *)&boneId, 1);
             if(k == 3)
             {
@@ -219,8 +226,8 @@ void Cmf::save()
             }
             else
             {
-                fout.write((char *)&(v.weight[k]), 4);
-                w -= v.weight[k];
+                fout.write((char *)&(v.weight[v.bindN - k]), 4);
+                w -= v.weight[v.bindN - k];
             }
         }
     }
