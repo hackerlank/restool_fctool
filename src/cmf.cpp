@@ -194,14 +194,24 @@ void Cmf::save()
             CmfVert v = m.vert[j];
             fout.write((char *)&v.pos, sizeof(vec3));
             fout.write((char *)&v.uv[0], sizeof(vec2));
+            //cout << "vert " << j << " " << v.pos.x << " " << v.pos.y << " " << v.pos.z << " bindN " << v.bindN << endl;
 
-            uint8 bindN = (uint8)v.bindN;
+            uint8 bindN = (uint8)min(v.bindN, (uint32)4);
             fout.write((char *)&bindN, 1);
-            for(int k = 0; k < v.bindN; k++)
+            float w = 1.0f;
+            for(int k = 0; k < bindN; k++)
             {
                 uint8 boneId = (uint8)v.boneid[k];
                 fout.write((char *)&boneId, 1);
-                fout.write((char *)&(v.weight[k]), 4);
+                if(k == 3)
+                {
+                    fout.write((char *)&w, 4);
+                }
+                else
+                {
+                    fout.write((char *)&(v.weight[k]), 4);
+                    w -= v.weight[k];
+                }
             }
         }
 
@@ -214,6 +224,7 @@ void Cmf::save()
                 uint16 ff = (uint16)m.face[j].idx[k];
                 fout.write((char *)&ff, 2);
             }
+            //cout << "face" << j << " " << m.face[j].idx[0] << " " << m.face[j].idx[1] << " " << m.face[j].idx[2] << endl;
         }
 
         fout.close();

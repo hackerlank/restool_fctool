@@ -21,7 +21,7 @@ using namespace std;
 //#define TestFiles "res/bao00.cmf"
 //#define TestFiles "./out/zhujue/boy/trouser/tui042b.cmf"
 //#define TestFiles "./out/zhujue/boy/trouser/tui042b.cmf"
-#define TestFiles "./out/zhujue/girl/back/bei086g.cmf"
+#define TestFiles "./out/zhujue/girl/hand/shou064g.cmf"
 
 void work(const char *path)
 {
