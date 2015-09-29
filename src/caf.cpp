@@ -109,7 +109,7 @@ KeyData Caf::getKeyData(int boneid, float time)
         CafAnim anim = _list[i];
         if(anim.boneid == boneid)
         {
-            for(int j = 0; j < anim.list.size(); j++)
+            for(int j = 1; j < anim.list.size(); j++)
             {
                 KeyAnim k2 = anim.list[j];
                 if(time < k2.time)
@@ -126,8 +126,6 @@ KeyData Caf::getKeyData(int boneid, float time)
                     //d.rot.z = k1.rot.z * (1.0f - k) + k2.rot.z * k;//2z
                     //d.rot.w = k1.rot.w * (1.0f - k) + k2.rot.w * k;//3w
 
-
-
                     d.pos.x = k1.pos.x;
                     d.pos.y = k1.pos.y;
                     d.pos.z = k1.pos.z;
@@ -136,6 +134,32 @@ KeyData Caf::getKeyData(int boneid, float time)
                     d.rot.y = k1.rot.y;
                     d.rot.z = k1.rot.z;
                     d.rot.w = k1.rot.w;
+
+
+                    Quaternion q(
+                        d.rot.x,
+                        d.rot.y,
+                        d.rot.z,
+                        d.rot.w);
+
+                    q = q.inverted();
+                    d.rot.x = q.x;
+                    d.rot.y = q.y;
+                    d.rot.z = q.z;
+                    d.rot.w = q.w;
+
+                    return d;
+                }
+                if(j == anim.list.size() - 1)
+                {
+                    d.pos.x = k2.pos.x;
+                    d.pos.y = k2.pos.y;
+                    d.pos.z = k2.pos.z;
+                                      
+                    d.rot.x = k2.rot.x;
+                    d.rot.y = k2.rot.y;
+                    d.rot.z = k2.rot.z;
+                    d.rot.w = k2.rot.w;
 
 
                     Quaternion q(

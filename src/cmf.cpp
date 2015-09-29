@@ -165,70 +165,79 @@ Cmf::~Cmf()
 
 void Cmf::save()
 {
+    CmfMesh m;
+    int tn = 0;
     for(int i = 0; i < _list.size(); i++)
     {
-        char path[255];
-        strcpy(path, "aries/");
-        strcpy(path + 6, _path);
-        if(i == 0)
+        CmfMesh c = _list[i];
+        for(int j = 0; j < c.vert.size(); j++)
         {
-            strcpy(path + strlen(path) - 4, ".skin");
-        }else
-        {
-            int p = strlen(path) - 4;
-            path[p] = (char)(48 + i);
-            strcpy(path + p + 1, ".skin");
+            m.vert.push_back(c.vert[j]);
         }
-
-        cout << "[SAVE]" << path << endl;
-        Util::mkdir(path);
-        ofstream fout(path, ios::out|ios::binary);
-
-
-        CmfMesh m = _list[i];
-
-        uint16 vertN = (uint16)m.vert.size();
-        fout.write((char *)&vertN, 2);
-        for(int j = 0; j < vertN; j++)
+        for(int j = 0; j < c.face.size(); j++)
         {
-            CmfVert v = m.vert[j];
-            fout.write((char *)&v.pos, sizeof(vec3));
-            fout.write((char *)&v.uv[0], sizeof(vec2));
-            //cout << "vert " << j << " " << v.pos.x << " " << v.pos.y << " " << v.pos.z << " bindN " << v.bindN << endl;
-
-            uint8 bindN = (uint8)min(v.bindN, (uint32)4);
-            fout.write((char *)&bindN, 1);
-            float w = 1.0f;
-            for(int k = 0; k < bindN; k++)
-            {
-                uint8 boneId = (uint8)v.boneid[k];
-                fout.write((char *)&boneId, 1);
-                if(k == 3)
-                {
-                    fout.write((char *)&w, 4);
-                }
-                else
-                {
-                    fout.write((char *)&(v.weight[k]), 4);
-                    w -= v.weight[k];
-                }
-            }
+            CmfFace f = c.face[j];
+            f.idx[0] += tn;
+            f.idx[1] += tn;
+            f.idx[2] += tn;
+            m.face.push_back(f);
         }
-
-        uint16 faceN = (uint16)m.face.size();
-        fout.write((char *)&faceN, 2);
-        for(int j = 0; j < faceN; j++)
-        {
-            for(int k = 0; k < 3; k++)
-            {
-                uint16 ff = (uint16)m.face[j].idx[k];
-                fout.write((char *)&ff, 2);
-            }
-            //cout << "face" << j << " " << m.face[j].idx[0] << " " << m.face[j].idx[1] << " " << m.face[j].idx[2] << endl;
-        }
-
-        fout.close();
+        tn = c.vert.size();
     }
+
+
+    char path[255];
+    strcpy(path, "aries/");
+    strcpy(path + 6, _path);
+    strcpy(path + strlen(path) - 4, ".skin");
+
+    cout << "[SAVE]" << path << endl;
+    Util::mkdir(path);
+    ofstream fout(path, ios::out|ios::binary);
+
+
+
+    uint16 vertN = (uint16)m.vert.size();
+    fout.write((char *)&vertN, 2);
+    for(int j = 0; j < vertN; j++)
+    {
+        CmfVert v = m.vert[j];
+        fout.write((char *)&v.pos, sizeof(vec3));
+        fout.write((char *)&v.uv[0], sizeof(vec2));
+        //cout << "vert " << j << " " << v.pos.x << " " << v.pos.y << " " << v.pos.z << " bindN " << v.bindN << endl;
+
+        uint8 bindN = (uint8)min(v.bindN, (uint32)4);
+        fout.write((char *)&bindN, 1);
+        float w = 1.0f;
+        for(int k = 0; k < bindN; k++)
+        {
+            uint8 boneId = (uint8)v.boneid[k];
+            fout.write((char *)&boneId, 1);
+            if(k == 3)
+            {
+                fout.write((char *)&w, 4);
+            }
+            else
+            {
+                fout.write((char *)&(v.weight[k]), 4);
+                w -= v.weight[k];
+            }
+        }
+    }
+
+    uint16 faceN = (uint16)m.face.size();
+    fout.write((char *)&faceN, 2);
+    for(int j = 0; j < faceN; j++)
+    {
+        for(int k = 0; k < 3; k++)
+        {
+            uint16 ff = (uint16)m.face[j].idx[k];
+            fout.write((char *)&ff, 2);
+        }
+        //cout << "face" << j << " " << m.face[j].idx[0] << " " << m.face[j].idx[1] << " " << m.face[j].idx[2] << endl;
+    }
+
+    fout.close();
 }
 
 
