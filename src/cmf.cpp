@@ -137,11 +137,15 @@ Cmf::Cmf(const char* file)
             }
 
 	        _file.read((char *)&v.bindN, 4);
+            int ki = 0;
             for(int k = 0; k < v.bindN; k++)
             {
-	            _file.read((char *)&v.boneid[k], 4);
-	            _file.read((char *)&v.weight[k], 4);
+	            _file.read((char *)&v.boneid[ki], 4);
+	            _file.read((char *)&v.weight[ki], 4);
+                if(v.weight[ki] > 0.01)
+                    ki = ki + 1;
             }
+            v.bindN = ki;
 
             if(v.bindN > 4)
             {
@@ -172,6 +176,7 @@ Cmf::~Cmf()
 
 void Cmf::save()
 {
+    //CmfMesh m = _list[0];
     CmfMesh m;
     int tn = 0;
     for(int i = 0; i < _list.size(); i++)
@@ -218,7 +223,7 @@ void Cmf::save()
         float w = 1.0f;
         for(int k = 0; k < bindN; k++)
         {
-            uint8 boneId = (uint8)v.boneid[v.bindN - k];
+            uint8 boneId = (uint8)v.boneid[v.bindN - k - 1];
             fout.write((char *)&boneId, 1);
             if(k == 3)
             {
@@ -226,8 +231,8 @@ void Cmf::save()
             }
             else
             {
-                fout.write((char *)&(v.weight[v.bindN - k]), 4);
-                w -= v.weight[v.bindN - k];
+                fout.write((char *)&(v.weight[v.bindN - k - 1]), 4);
+                w -= v.weight[v.bindN - k - 1];
             }
         }
     }

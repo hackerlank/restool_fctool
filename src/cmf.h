@@ -15,8 +15,8 @@ typedef struct _CmfVert
     vec2 uv[4];
 
     uint32 bindN;
-    uint32 boneid[4];
-    float  weight[4];
+    uint32 boneid[8];
+    float  weight[8];
 } CmfVert;
 
 typedef struct _CmfFace

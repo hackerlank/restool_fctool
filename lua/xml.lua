@@ -157,15 +157,9 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie301.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie301.png",
             },
-            [61] = {
-                ["msh"] = "shoe/Xie303.CMF",
-            },
             [62] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie305.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie305.png",
-            },
-            [63] = {
-                ["msh"] = "shoe/Xie307.CMF",
             },
             [64] = {
                 ["msh"] = "out/zhujue/girl/shoe/aijiyishengg_shoe.skin",
@@ -274,10 +268,6 @@ return {
             [99] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie003g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie003g.png",
-            },
-            [100] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie000g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie000g.png",
             },
             [101] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie013g.skin",
@@ -415,15 +405,9 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie301.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie301.png",
             },
-            [161] = {
-                ["msh"] = "shoe/Xie303.CMF",
-            },
             [162] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie305.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie305.png",
-            },
-            [163] = {
-                ["msh"] = "shoe/Xie307.CMF",
             },
             [164] = {
                 ["msh"] = "out/zhujue/girl/shoe/aijiyishengg_shoe.skin",
@@ -589,12 +573,13 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie550g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie550g.png",
             },
-            [0] = {
-                ["msh"] = "out/zhujue/girl/skin/skinxie001g.skin",
-                ["tex"] = "out/zhujue/girl/skin/skinxie001g.png",
+            [500] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie510g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie510g.png",
             },
-            [261] = {
-                ["msh"] = "shoe/Xie303.CMF",
+            [520] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie520g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie520g.png",
             },
             [584] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie584g.skin",
@@ -628,9 +613,9 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie549g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie549g.png",
             },
-            [522] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie522g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie522g.png",
+            [777] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie577g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie577g.png",
             },
             [278] = {
                 ["msh"] = "out/zhujue/girl/shoe/niyanv_shoe.skin",
@@ -664,8 +649,9 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie574g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie574g.png",
             },
-            [263] = {
-                ["msh"] = "shoe/Xie307.CMF",
+            [524] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie524g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie524g.png",
             },
             [811] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie511g.skin",
@@ -767,10 +753,6 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie520g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie520g.png",
             },
-            [429] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie119g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie119g.png",
-            },
             [409] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie050g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie050g.png",
@@ -783,29 +765,13 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie525g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie525g.png",
             },
-            [779] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie579g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie579g.png",
-            },
-            [390] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie001g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie001g.png",
-            },
-            [924] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie524g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie524g.png",
-            },
-            [922] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie522g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie522g.png",
-            },
             [266] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie008g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie008g.png",
             },
-            [920] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie520g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie520g.png",
+            [432] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie041g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie041g.png",
             },
             [594] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie594g.skin",
@@ -819,9 +785,9 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie113g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie113g.png",
             },
-            [318] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie086g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie086g.png",
+            [416] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie042g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie042g.png",
             },
             [722] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie522g.skin",
@@ -831,9 +797,9 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/niyanv_shoe.skin",
                 ["tex"] = "out/zhujue/girl/shoe/niyanv_shoe.png",
             },
-            [412] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie078g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie078g.png",
+            [822] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie522g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie522g.png",
             },
             [818] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie518g.skin",
@@ -843,33 +809,33 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie595g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie595g.png",
             },
-            [918] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie518g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie518g.png",
+            [922] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie522g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie522g.png",
             },
-            [362] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie305.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie305.png",
+            [318] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie086g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie086g.png",
             },
-            [911] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie511g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie511g.png",
+            [415] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie061g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie061g.png",
             },
             [490] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie001g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie001g.png",
             },
-            [428] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie114g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie114g.png",
+            [918] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie518g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie518g.png",
             },
-            [491] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie002g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie002g.png",
+            [873] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie573g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie573g.png",
             },
-            [979] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie579g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie579g.png",
+            [911] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie511g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie511g.png",
             },
             [596] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie596g.skin",
@@ -883,21 +849,21 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie040g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie040g.png",
             },
-            [977] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie577g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie577g.png",
+            [431] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie040g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie040g.png",
             },
             [724] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie524g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie524g.png",
             },
-            [975] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie575g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie575g.png",
+            [491] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie002g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie002g.png",
             },
-            [973] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie573g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie573g.png",
+            [979] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie579g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie579g.png",
             },
             [820] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie520g.skin",
@@ -907,6 +873,22 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie597g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie597g.png",
             },
+            [977] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie577g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie577g.png",
+            },
+            [975] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie575g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie575g.png",
+            },
+            [973] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie573g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie573g.png",
+            },
+            [725] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie525g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie525g.png",
+            },
             [466] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie008g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie008g.png",
@@ -915,25 +897,9 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie311.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie311.png",
             },
-            [849] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie549g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie549g.png",
-            },
-            [725] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie525g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie525g.png",
-            },
-            [413] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie081g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie081g.png",
-            },
-            [422] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie092g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie092g.png",
-            },
-            [430] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie113g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie113g.png",
+            [401] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie013g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie013g.png",
             },
             [598] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie598g.skin",
@@ -955,13 +921,13 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/aijiyishengg_shoe.skin",
                 ["tex"] = "out/zhujue/girl/shoe/aijiyishengg_shoe.png",
             },
-            [432] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie041g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie041g.png",
+            [425] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie068g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie068g.png",
             },
-            [431] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie040g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie040g.png",
+            [316] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie042g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie042g.png",
             },
             [567] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie567g.skin",
@@ -987,13 +953,13 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie003g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie003g.png",
             },
-            [427] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie118g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie118g.png",
+            [430] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie113g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie113g.png",
             },
-            [426] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie058g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie058g.png",
+            [429] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie119g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie119g.png",
             },
             [568] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie568g.skin",
@@ -1003,17 +969,17 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie013g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie013g.png",
             },
-            [632] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie632g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie632g.png",
+            [317] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie062g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie062g.png",
             },
-            [425] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie068g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie068g.png",
+            [428] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie114g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie114g.png",
             },
-            [424] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie083g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie083g.png",
+            [427] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie118g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie118g.png",
             },
             [365] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie311.skin",
@@ -1023,9 +989,9 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie505g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie505g.png",
             },
-            [423] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie064g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie064g.png",
+            [426] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie058g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie058g.png",
             },
             [569] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie569g.skin",
@@ -1039,24 +1005,25 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie633g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie633g.png",
             },
-            [461] = {
-                ["msh"] = "shoe/Xie303.CMF",
+            [920] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie520g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie520g.png",
+            },
+            [424] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie083g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie083g.png",
+            },
+            [423] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie064g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie064g.png",
+            },
+            [422] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie092g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie092g.png",
             },
             [421] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie080g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie080g.png",
-            },
-            [420] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie105g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie105g.png",
-            },
-            [419] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie095g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie095g.png",
-            },
-            [418] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie086g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie086g.png",
             },
             [825] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie525g.skin",
@@ -1070,28 +1037,29 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie634g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie634g.png",
             },
-            [417] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie062g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie062g.png",
+            [420] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie105g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie105g.png",
             },
-            [416] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie042g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie042g.png",
+            [419] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie095g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie095g.png",
             },
             [366] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie008g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie008g.png",
             },
-            [415] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie061g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie061g.png",
+            [418] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie086g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie086g.png",
+            },
+            [417] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie062g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie062g.png",
             },
             [414] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie015g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie015g.png",
-            },
-            [571] = {
-                ["msh"] = "shoe/Xie571G.CMF",
             },
             [603] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie603g.skin",
@@ -1109,17 +1077,17 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/niyanv_shoe.skin",
                 ["tex"] = "out/zhujue/girl/shoe/niyanv_shoe.png",
             },
+            [413] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie081g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie081g.png",
+            },
+            [412] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie078g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie078g.png",
+            },
             [411] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie079g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie079g.png",
-            },
-            [410] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie073g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie073g.png",
-            },
-            [405] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie060g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie060g.png",
             },
             [572] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie572g.skin",
@@ -1133,6 +1101,14 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie095g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie095g.png",
             },
+            [410] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie073g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie073g.png",
+            },
+            [405] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie060g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie060g.png",
+            },
             [404] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie009g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie009g.png",
@@ -1140,14 +1116,6 @@ return {
             [403] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie010g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie010g.png",
-            },
-            [402] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie014g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie014g.png",
-            },
-            [401] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie013g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie013g.png",
             },
             [541] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie541g.skin",
@@ -1161,28 +1129,29 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie605g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie605g.png",
             },
+            [402] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie014g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie014g.png",
+            },
+            [924] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie524g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie524g.png",
+            },
             [850] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie550g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie550g.png",
             },
-            [463] = {
-                ["msh"] = "shoe/Xie307.CMF",
-            },
-            [824] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie524g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie524g.png",
-            },
-            [822] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie522g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie522g.png",
+            [849] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie549g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie549g.png",
             },
             [511] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie511g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie511g.png",
             },
-            [391] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie002g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie002g.png",
+            [824] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie524g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie524g.png",
             },
             [574] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie574g.skin",
@@ -1200,6 +1169,14 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie525g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie525g.png",
             },
+            [391] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie002g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie002g.png",
+            },
+            [390] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie001g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie001g.png",
+            },
             [879] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie579g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie579g.png",
@@ -1207,14 +1184,6 @@ return {
             [877] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie577g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie577g.png",
-            },
-            [875] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie575g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie575g.png",
-            },
-            [873] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie573g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie573g.png",
             },
             [575] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie575g.skin",
@@ -1224,19 +1193,17 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie607g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie607g.png",
             },
-            [363] = {
-                ["msh"] = "shoe/Xie307.CMF",
+            [875] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie575g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie575g.png",
             },
             [464] = {
                 ["msh"] = "out/zhujue/girl/shoe/aijiyishengg_shoe.skin",
                 ["tex"] = "out/zhujue/girl/shoe/aijiyishengg_shoe.png",
             },
-            [361] = {
-                ["msh"] = "shoe/Xie303.CMF",
-            },
-            [360] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie301.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie301.png",
+            [362] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie305.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie305.png",
             },
             [512] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie512g.skin",
@@ -1250,9 +1217,9 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie576g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie576g.png",
             },
-            [305] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie060g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie060g.png",
+            [608] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie608g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie608g.png",
             },
             [321] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie080g.skin",
@@ -1262,13 +1229,9 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie572g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie572g.png",
             },
-            [326] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie058g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie058g.png",
-            },
-            [524] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie524g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie524g.png",
+            [360] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie301.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie301.png",
             },
             [513] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie513g.skin",
@@ -1282,13 +1245,13 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie577g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie577g.png",
             },
-            [312] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie078g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie078g.png",
+            [326] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie058g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie058g.png",
             },
-            [520] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie520g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie520g.png",
+            [311] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie079g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie079g.png",
             },
             [673] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie573g.skin",
@@ -1298,21 +1261,21 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie505g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie505g.png",
             },
-            [517] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie517g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie517g.png",
+            [304] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie009g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie009g.png",
             },
-            [500] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie510g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie510g.png",
+            [0] = {
+                ["msh"] = "out/zhujue/girl/skin/skinxie001g.skin",
+                ["tex"] = "out/zhujue/girl/skin/skinxie001g.png",
             },
             [546] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie546g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie546g.png",
             },
-            [290] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie001g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie001g.png",
+            [578] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie578g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie578g.png",
             },
             [306] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie007g.skin",
@@ -1326,17 +1289,17 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie574g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie574g.png",
             },
-            [317] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie062g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie062g.png",
+            [774] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie574g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie574g.png",
             },
-            [775] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie575g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie575g.png",
+            [305] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie060g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie060g.png",
             },
-            [291] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie002g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie002g.png",
+            [290] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie001g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie001g.png",
             },
             [547] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie547g.skin",
@@ -1350,29 +1313,29 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie511g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie511g.png",
             },
-            [600] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie600g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie600g.png",
+            [518] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie518g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie518g.png",
             },
             [675] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie575g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie575g.png",
             },
-            [608] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie608g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie608g.png",
+            [302] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie014g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie014g.png",
             },
             [310] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie073g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie073g.png",
             },
-            [624] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie524g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie524g.png",
+            [632] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie632g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie632g.png",
             },
-            [302] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie014g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie014g.png",
+            [775] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie575g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie575g.png",
             },
             [580] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie580g.skin",
@@ -1386,17 +1349,17 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie064g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie064g.png",
             },
-            [311] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie079g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie079g.png",
+            [779] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie579g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie579g.png",
             },
-            [292] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie003g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie003g.png",
+            [522] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie522g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie522g.png",
             },
-            [303] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie010g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie010g.png",
+            [600] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie600g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie600g.png",
             },
             [772] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie572g.skin",
@@ -1410,29 +1373,29 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie581g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie581g.png",
             },
-            [304] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie009g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie009g.png",
+            [624] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie524g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie524g.png",
             },
-            [578] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie578g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie578g.png",
+            [291] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie002g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie002g.png",
             },
             [677] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie577g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie577g.png",
             },
-            [262] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie305.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie305.png",
+            [303] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie010g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie010g.png",
             },
-            [260] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie301.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie301.png",
+            [312] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie078g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie078g.png",
             },
-            [518] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie518g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie518g.png",
+            [773] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie573g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie573g.png",
             },
             [550] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie550g.skin",
@@ -1450,17 +1413,17 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie083g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie083g.png",
             },
+            [260] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie301.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie301.png",
+            },
             [264] = {
                 ["msh"] = "out/zhujue/girl/shoe/aijiyishengg_shoe.skin",
                 ["tex"] = "out/zhujue/girl/shoe/aijiyishengg_shoe.png",
             },
-            [774] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie574g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie574g.png",
-            },
-            [316] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie042g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie042g.png",
+            [292] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie003g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie003g.png",
             },
             [519] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie519g.skin",
@@ -1478,9 +1441,9 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie550g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie550g.png",
             },
-            [777] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie577g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie577g.png",
+            [517] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie517g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie517g.png",
             },
             [679] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie579g.skin",
@@ -1490,9 +1453,9 @@ return {
                 ["msh"] = "out/zhujue/girl/shoe/xie511g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie511g.png",
             },
-            [773] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie573g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie573g.png",
+            [262] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie305.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie305.png",
             },
         },
         ["shous"] = {
@@ -1636,38 +1599,6 @@ return {
                 ["msh"] = "out/zhujue/girl/hand/shou008g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou008g.png",
             },
-            [67] = {
-                ["msh"] = "out/zhujue/girl/hand/zhangtai_hand.skin",
-                ["tex"] = "out/zhujue/girl/hand/zhangtai_hand.png",
-            },
-            [68] = {
-                ["msh"] = "out/zhujue/girl/hand/nvzhiyuan_hand.skin",
-                ["tex"] = "out/zhujue/girl/hand/nvzhiyuan_hand.png",
-            },
-            [69] = {
-                ["msh"] = "out/zhujue/girl/hand/nvshangren_hand.skin",
-                ["tex"] = "out/zhujue/girl/hand/nvshangren_hand.png",
-            },
-            [70] = {
-                ["msh"] = "out/zhujue/girl/hand/nvlaoshi_hand.skin",
-                ["tex"] = "out/zhujue/girl/hand/nvlaoshi_hand.png",
-            },
-            [71] = {
-                ["msh"] = "out/zhujue/girl/hand/nvhushi_hand.skin",
-                ["tex"] = "out/zhujue/girl/hand/nvhushi_hand.png",
-            },
-            [72] = {
-                ["msh"] = "out/zhujue/girl/hand/xianduruila_hand.skin",
-                ["tex"] = "out/zhujue/girl/hand/xianduruila_hand.png",
-            },
-            [73] = {
-                ["msh"] = "out/zhujue/girl/hand/nongfu_hand.skin",
-                ["tex"] = "out/zhujue/girl/hand/nongfu_hand.png",
-            },
-            [74] = {
-                ["msh"] = "out/zhujue/girl/hand/laoyu_hand.skin",
-                ["tex"] = "out/zhujue/girl/hand/laoyu_hand.png",
-            },
             [78] = {
                 ["msh"] = "out/zhujue/girl/hand/niyanv_hand.skin",
                 ["tex"] = "out/zhujue/girl/hand/niyanv_hand.png",
@@ -1691,10 +1622,6 @@ return {
             [96] = {
                 ["msh"] = "out/zhujue/girl/hand/shou501g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou501g.png",
-            },
-            [100] = {
-                ["msh"] = "out/zhujue/girl/hand/shou000g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou000g.png",
             },
             [101] = {
                 ["msh"] = "out/zhujue/girl/hand/shou013g.skin",
@@ -1776,9 +1703,6 @@ return {
                 ["msh"] = "out/zhujue/girl/hand/shou105g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou105g.png",
             },
-            [121] = {
-                ["msh"] = "hand/Shou080G.CMF",
-            },
             [122] = {
                 ["msh"] = "out/zhujue/girl/hand/shou092g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou092g.png",
@@ -1811,9 +1735,9 @@ return {
                 ["msh"] = "out/zhujue/girl/hand/shou510g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou510g.png",
             },
-            [520] = {
-                ["msh"] = "out/zhujue/girl/hand/shou520g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou520g.png",
+            [131] = {
+                ["msh"] = "out/zhujue/girl/hand/shou040g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou040g.png",
             },
             [584] = {
                 ["msh"] = "out/zhujue/girl/hand/shou584g.skin",
@@ -1871,8 +1795,9 @@ return {
                 ["msh"] = "out/zhujue/girl/hand/shou007g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou007g.png",
             },
-            [587] = {
-                ["msh"] = "hand/Shou587G.CMF",
+            [422] = {
+                ["msh"] = "out/zhujue/girl/hand/shou092g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou092g.png",
             },
             [524] = {
                 ["msh"] = "out/zhujue/girl/hand/shou524g.skin",
@@ -1890,13 +1815,13 @@ return {
                 ["msh"] = "out/zhujue/girl/hand/shou118g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou118g.png",
             },
-            [204] = {
-                ["msh"] = "out/zhujue/girl/hand/shou009g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou009g.png",
+            [407] = {
+                ["msh"] = "out/zhujue/girl/hand/shou011g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou011g.png",
             },
-            [212] = {
-                ["msh"] = "out/zhujue/girl/hand/shou078g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou078g.png",
+            [589] = {
+                ["msh"] = "out/zhujue/girl/hand/shou589g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou589g.png",
             },
             [220] = {
                 ["msh"] = "out/zhujue/girl/hand/shou105g.skin",
@@ -1926,8 +1851,9 @@ return {
                 ["msh"] = "out/zhujue/girl/hand/shou012g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou012g.png",
             },
-            [591] = {
-                ["msh"] = "hand/Shou591G.CMF",
+            [424] = {
+                ["msh"] = "out/zhujue/girl/hand/shou083g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou083g.png",
             },
             [281] = {
                 ["msh"] = "out/zhujue/girl/hand/shou505g.skin",
@@ -1952,9 +1878,6 @@ return {
             [213] = {
                 ["msh"] = "out/zhujue/girl/hand/shou081g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou081g.png",
-            },
-            [221] = {
-                ["msh"] = "hand/Shou080G.CMF",
             },
             [229] = {
                 ["msh"] = "out/zhujue/girl/hand/shou119g.skin",
@@ -2000,9 +1923,9 @@ return {
                 ["msh"] = "out/zhujue/girl/hand/shou524g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou524g.png",
             },
-            [206] = {
-                ["msh"] = "out/zhujue/girl/hand/shou007g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou007g.png",
+            [820] = {
+                ["msh"] = "out/zhujue/girl/hand/shou520g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou520g.png",
             },
             [214] = {
                 ["msh"] = "out/zhujue/girl/hand/shou015g.skin",
@@ -2024,9 +1947,6 @@ return {
                 ["msh"] = "out/zhujue/girl/hand/shou042g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou042g.png",
             },
-            [332] = {
-                ["msh"] = "hand/Shou041G.CMF",
-            },
             [822] = {
                 ["msh"] = "out/zhujue/girl/hand/shou522g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou522g.png",
@@ -2047,9 +1967,9 @@ return {
                 ["msh"] = "out/zhujue/girl/hand/shou013g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou013g.png",
             },
-            [317] = {
-                ["msh"] = "out/zhujue/girl/hand/shou062g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou062g.png",
+            [632] = {
+                ["msh"] = "out/zhujue/girl/hand/shou632g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou632g.png",
             },
             [381] = {
                 ["msh"] = "out/zhujue/girl/hand/shou505g.skin",
@@ -2123,27 +2043,9 @@ return {
                 ["msh"] = "out/zhujue/girl/hand/shou083g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou083g.png",
             },
-            [232] = {
-                ["msh"] = "hand/Shou041G.CMF",
-            },
-            [401] = {
-                ["msh"] = "out/zhujue/girl/hand/shou013g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou013g.png",
-            },
             [924] = {
                 ["msh"] = "out/zhujue/girl/hand/shou524g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou524g.png",
-            },
-            [920] = {
-                ["msh"] = "out/zhujue/girl/hand/shou520g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou520g.png",
-            },
-            [413] = {
-                ["msh"] = "out/zhujue/girl/hand/shou081g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou081g.png",
-            },
-            [432] = {
-                ["msh"] = "hand/Shou041G.CMF",
             },
             [606] = {
                 ["msh"] = "out/zhujue/girl/hand/shou606g.skin",
@@ -2153,9 +2055,29 @@ return {
                 ["msh"] = "out/zhujue/girl/hand/shou105g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou105g.png",
             },
+            [310] = {
+                ["msh"] = "out/zhujue/girl/hand/shou073g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou073g.png",
+            },
+            [920] = {
+                ["msh"] = "out/zhujue/girl/hand/shou520g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou520g.png",
+            },
+            [415] = {
+                ["msh"] = "out/zhujue/girl/hand/shou061g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou061g.png",
+            },
             [431] = {
                 ["msh"] = "out/zhujue/girl/hand/shou040g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou040g.png",
+            },
+            [416] = {
+                ["msh"] = "out/zhujue/girl/hand/shou042g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou042g.png",
+            },
+            [607] = {
+                ["msh"] = "out/zhujue/girl/hand/shou607g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou607g.png",
             },
             [429] = {
                 ["msh"] = "out/zhujue/girl/hand/shou119g.skin",
@@ -2173,59 +2095,33 @@ return {
                 ["msh"] = "out/zhujue/girl/hand/shou058g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou058g.png",
             },
-            [416] = {
-                ["msh"] = "out/zhujue/girl/hand/shou042g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou042g.png",
-            },
-            [607] = {
-                ["msh"] = "out/zhujue/girl/hand/shou607g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou607g.png",
+            [129] = {
+                ["msh"] = "out/zhujue/girl/hand/shou119g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou119g.png",
             },
             [425] = {
                 ["msh"] = "out/zhujue/girl/hand/shou068g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou068g.png",
             },
-            [424] = {
-                ["msh"] = "out/zhujue/girl/hand/shou083g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou083g.png",
-            },
             [423] = {
                 ["msh"] = "out/zhujue/girl/hand/shou064g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou064g.png",
-            },
-            [422] = {
-                ["msh"] = "out/zhujue/girl/hand/shou092g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou092g.png",
-            },
-            [512] = {
-                ["msh"] = "out/zhujue/girl/hand/shou512g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou512g.png",
-            },
-            [421] = {
-                ["msh"] = "hand/Shou080G.CMF",
-            },
-            [202] = {
-                ["msh"] = "out/zhujue/girl/hand/shou014g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou014g.png",
             },
             [305] = {
                 ["msh"] = "out/zhujue/girl/hand/shou060g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou060g.png",
             },
-            [321] = {
-                ["msh"] = "hand/Shou080G.CMF",
+            [547] = {
+                ["msh"] = "out/zhujue/girl/hand/shou547g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou547g.png",
             },
             [419] = {
                 ["msh"] = "out/zhujue/girl/hand/shou095g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou095g.png",
             },
-            [820] = {
-                ["msh"] = "out/zhujue/girl/hand/shou520g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou520g.png",
-            },
-            [417] = {
-                ["msh"] = "out/zhujue/girl/hand/shou062g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou062g.png",
+            [405] = {
+                ["msh"] = "out/zhujue/girl/hand/shou060g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou060g.png",
             },
             [513] = {
                 ["msh"] = "out/zhujue/girl/hand/shou513g.skin",
@@ -2247,29 +2143,29 @@ return {
                 ["msh"] = "out/zhujue/girl/hand/shou068g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou068g.png",
             },
-            [415] = {
-                ["msh"] = "out/zhujue/girl/hand/shou061g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou061g.png",
+            [417] = {
+                ["msh"] = "out/zhujue/girl/hand/shou062g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou062g.png",
             },
             [481] = {
                 ["msh"] = "out/zhujue/girl/hand/shou505g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou505g.png",
             },
+            [413] = {
+                ["msh"] = "out/zhujue/girl/hand/shou081g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou081g.png",
+            },
             [412] = {
                 ["msh"] = "out/zhujue/girl/hand/shou078g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou078g.png",
             },
+            [0] = {
+                ["msh"] = "out/zhujue/girl/skin/skinshou001g.skin",
+                ["tex"] = "out/zhujue/girl/skin/skinshou001g.png",
+            },
             [411] = {
                 ["msh"] = "out/zhujue/girl/hand/shou079g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou079g.png",
-            },
-            [410] = {
-                ["msh"] = "out/zhujue/girl/hand/shou073g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou073g.png",
-            },
-            [409] = {
-                ["msh"] = "out/zhujue/girl/hand/shou050g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou050g.png",
             },
             [306] = {
                 ["msh"] = "out/zhujue/girl/hand/shou007g.skin",
@@ -2279,60 +2175,61 @@ return {
                 ["msh"] = "out/zhujue/girl/hand/shou092g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou092g.png",
             },
-            [407] = {
-                ["msh"] = "out/zhujue/girl/hand/shou011g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou011g.png",
+            [410] = {
+                ["msh"] = "out/zhujue/girl/hand/shou073g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou073g.png",
             },
-            [405] = {
-                ["msh"] = "out/zhujue/girl/hand/shou060g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou060g.png",
+            [553] = {
+                ["msh"] = "out/zhujue/girl/hand/shou553g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou553g.png",
             },
-            [0] = {
-                ["msh"] = "out/zhujue/girl/skin/skinshou001g.skin",
-                ["tex"] = "out/zhujue/girl/skin/skinshou001g.png",
+            [520] = {
+                ["msh"] = "out/zhujue/girl/hand/shou520g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou520g.png",
             },
-            [304] = {
-                ["msh"] = "out/zhujue/girl/hand/shou009g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou009g.png",
-            },
-            [547] = {
-                ["msh"] = "out/zhujue/girl/hand/shou547g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou547g.png",
-            },
-            [418] = {
-                ["msh"] = "out/zhujue/girl/hand/shou086g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou086g.png",
-            },
-            [132] = {
-                ["msh"] = "hand/Shou041G.CMF",
+            [401] = {
+                ["msh"] = "out/zhujue/girl/hand/shou013g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou013g.png",
             },
             [402] = {
                 ["msh"] = "out/zhujue/girl/hand/shou014g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou014g.png",
             },
+            [418] = {
+                ["msh"] = "out/zhujue/girl/hand/shou086g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou086g.png",
+            },
+            [409] = {
+                ["msh"] = "out/zhujue/girl/hand/shou050g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou050g.png",
+            },
+            [311] = {
+                ["msh"] = "out/zhujue/girl/hand/shou079g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou079g.png",
+            },
             [466] = {
                 ["msh"] = "out/zhujue/girl/hand/shou008g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou008g.png",
             },
-            [303] = {
-                ["msh"] = "out/zhujue/girl/hand/shou010g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou010g.png",
+            [512] = {
+                ["msh"] = "out/zhujue/girl/hand/shou512g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou512g.png",
             },
-            [824] = {
-                ["msh"] = "out/zhujue/girl/hand/shou524g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou524g.png",
+            [545] = {
+                ["msh"] = "out/zhujue/girl/hand/shou545g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou545g.png",
             },
             [130] = {
                 ["msh"] = "out/zhujue/girl/hand/shou113g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou113g.png",
             },
-            [600] = {
-                ["msh"] = "out/zhujue/girl/hand/shou600g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou600g.png",
+            [569] = {
+                ["msh"] = "out/zhujue/girl/hand/shou569g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou569g.png",
             },
-            [608] = {
-                ["msh"] = "out/zhujue/girl/hand/shou608g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou608g.png",
+            [303] = {
+                ["msh"] = "out/zhujue/girl/hand/shou010g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou010g.png",
             },
             [307] = {
                 ["msh"] = "out/zhujue/girl/hand/shou011g.skin",
@@ -2342,17 +2239,17 @@ return {
                 ["msh"] = "out/zhujue/girl/hand/shou064g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou064g.png",
             },
-            [310] = {
-                ["msh"] = "out/zhujue/girl/hand/shou073g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou073g.png",
+            [720] = {
+                ["msh"] = "out/zhujue/girl/hand/shou520g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou520g.png",
             },
             [178] = {
                 ["msh"] = "out/zhujue/girl/hand/niyanv_hand.skin",
                 ["tex"] = "out/zhujue/girl/hand/niyanv_hand.png",
             },
-            [624] = {
-                ["msh"] = "out/zhujue/girl/hand/shou524g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou524g.png",
+            [317] = {
+                ["msh"] = "out/zhujue/girl/hand/shou062g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou062g.png",
             },
             [517] = {
                 ["msh"] = "out/zhujue/girl/hand/shou517g.skin",
@@ -2374,29 +2271,29 @@ return {
                 ["msh"] = "out/zhujue/girl/hand/shou058g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou058g.png",
             },
-            [632] = {
-                ["msh"] = "out/zhujue/girl/hand/shou632g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou632g.png",
+            [633] = {
+                ["msh"] = "out/zhujue/girl/hand/shou633g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou633g.png",
             },
-            [166] = {
-                ["msh"] = "out/zhujue/girl/hand/shou008g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou008g.png",
+            [600] = {
+                ["msh"] = "out/zhujue/girl/hand/shou600g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou600g.png",
             },
-            [545] = {
-                ["msh"] = "out/zhujue/girl/hand/shou545g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou545g.png",
+            [608] = {
+                ["msh"] = "out/zhujue/girl/hand/shou608g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou608g.png",
             },
             [518] = {
                 ["msh"] = "out/zhujue/girl/hand/shou518g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou518g.png",
             },
-            [553] = {
-                ["msh"] = "out/zhujue/girl/hand/shou553g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou553g.png",
+            [624] = {
+                ["msh"] = "out/zhujue/girl/hand/shou524g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou524g.png",
             },
-            [569] = {
-                ["msh"] = "out/zhujue/girl/hand/shou569g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou569g.png",
+            [202] = {
+                ["msh"] = "out/zhujue/girl/hand/shou014g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou014g.png",
             },
             [308] = {
                 ["msh"] = "out/zhujue/girl/hand/shou012g.skin",
@@ -2406,17 +2303,17 @@ return {
                 ["msh"] = "out/zhujue/girl/hand/shou083g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou083g.png",
             },
-            [312] = {
+            [204] = {
+                ["msh"] = "out/zhujue/girl/hand/shou009g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou009g.png",
+            },
+            [206] = {
+                ["msh"] = "out/zhujue/girl/hand/shou007g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou007g.png",
+            },
+            [212] = {
                 ["msh"] = "out/zhujue/girl/hand/shou078g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou078g.png",
-            },
-            [720] = {
-                ["msh"] = "out/zhujue/girl/hand/shou520g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou520g.png",
-            },
-            [633] = {
-                ["msh"] = "out/zhujue/girl/hand/shou633g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou633g.png",
             },
             [519] = {
                 ["msh"] = "out/zhujue/girl/hand/shou519g.skin",
@@ -2430,25 +2327,25 @@ return {
                 ["msh"] = "out/zhujue/girl/hand/shou105g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou105g.png",
             },
+            [166] = {
+                ["msh"] = "out/zhujue/girl/hand/shou008g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou008g.png",
+            },
+            [824] = {
+                ["msh"] = "out/zhujue/girl/hand/shou524g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou524g.png",
+            },
             [216] = {
                 ["msh"] = "out/zhujue/girl/hand/shou042g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou042g.png",
             },
-            [129] = {
-                ["msh"] = "out/zhujue/girl/hand/shou119g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou119g.png",
+            [304] = {
+                ["msh"] = "out/zhujue/girl/hand/shou009g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou009g.png",
             },
-            [131] = {
-                ["msh"] = "out/zhujue/girl/hand/shou040g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou040g.png",
-            },
-            [311] = {
-                ["msh"] = "out/zhujue/girl/hand/shou079g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou079g.png",
-            },
-            [589] = {
-                ["msh"] = "out/zhujue/girl/hand/shou589g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou589g.png",
+            [312] = {
+                ["msh"] = "out/zhujue/girl/hand/shou078g.skin",
+                ["tex"] = "out/zhujue/girl/hand/shou078g.png",
             },
         },
         ["toushis"] = {
@@ -2652,9 +2549,6 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/nvhushi_headwear.skin",
                 ["tex"] = "out/zhujue/girl/headwear/nvhushi_headwear.png",
             },
-            [72] = {
-                ["msh"] = "headwear/xianduruila_headwear.CMF",
-            },
             [73] = {
                 ["msh"] = "out/zhujue/girl/headwear/nongfu_headwear.skin",
                 ["tex"] = "out/zhujue/girl/headwear/nongfu_headwear.png",
@@ -2682,27 +2576,6 @@ return {
             [84] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou509g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou509g.png",
-            },
-            [85] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou30101.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou30101.png",
-            },
-            [86] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou30501.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou30501.png",
-            },
-            [87] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou30701.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou30701.png",
-            },
-            [90] = {
-                ["msh"] = "headwear/Tou001G.CMF",
-            },
-            [91] = {
-                ["msh"] = "headwear/Tou002G.CMF",
-            },
-            [92] = {
-                ["msh"] = "headwear/Tou003G.CMF",
             },
             [93] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou013g.skin",
@@ -2868,9 +2741,6 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/tou301.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou301.png",
             },
-            [161] = {
-                ["msh"] = "headwear/Tou303.CMF",
-            },
             [162] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou305.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou305.png",
@@ -3035,8 +2905,9 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/tou510g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou510g.png",
             },
-            [261] = {
-                ["msh"] = "headwear/Tou303.CMF",
+            [520] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou520g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou520g.png",
             },
             [584] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou584g.skin",
@@ -3066,9 +2937,9 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/tou118g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou118g.png",
             },
-            [262] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou305.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou305.png",
+            [522] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou522g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou522g.png",
             },
             [554] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou502g.skin",
@@ -3154,9 +3025,9 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/tou518g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou518g.png",
             },
-            [718] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou518g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou518g.png",
+            [360] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou301.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou301.png",
             },
             [591] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou591g.skin",
@@ -3330,8 +3201,9 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/tou633g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou633g.png",
             },
-            [461] = {
-                ["msh"] = "headwear/Tou303.CMF",
+            [920] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou520g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou520g.png",
             },
             [825] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou525g.skin",
@@ -3341,9 +3213,9 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/tou602g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou602g.png",
             },
-            [318] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou012g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou012g.png",
+            [634] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou634g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou634g.png",
             },
             [334] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou083g.skin",
@@ -3353,8 +3225,9 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/tou008g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou008g.png",
             },
-            [571] = {
-                ["msh"] = "headwear/Tou571G.CMF",
+            [414] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou009g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou009g.png",
             },
             [603] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou603g.skin",
@@ -3388,18 +3261,6 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/tou068g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou068g.png",
             },
-            [925] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou525g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou525g.png",
-            },
-            [924] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou524g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou524g.png",
-            },
-            [920] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou520g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou520g.png",
-            },
             [541] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou541g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou541g.png",
@@ -3412,13 +3273,21 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/tou605g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou605g.png",
             },
-            [425] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou061g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou061g.png",
-            },
             [463] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou307.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou307.png",
+            },
+            [925] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou525g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou525g.png",
+            },
+            [924] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou524g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou524g.png",
+            },
+            [428] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou086g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou086g.png",
             },
             [922] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou522g.skin",
@@ -3427,18 +3296,6 @@ return {
             [918] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou518g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou518g.png",
-            },
-            [428] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou086g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou086g.png",
-            },
-            [414] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou009g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou009g.png",
-            },
-            [426] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou042g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou042g.png",
             },
             [606] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou606g.skin",
@@ -3452,21 +3309,21 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/tou058g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou058g.png",
             },
+            [362] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou305.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou305.png",
+            },
+            [420] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou073g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou073g.png",
+            },
+            [429] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou095g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou095g.png",
+            },
             [444] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou518g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou518g.png",
-            },
-            [441] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou040g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou040g.png",
-            },
-            [264] = {
-                ["msh"] = "out/zhujue/girl/headwear/ajysnv_headwear.skin",
-                ["tex"] = "out/zhujue/girl/headwear/ajysnv_headwear.png",
-            },
-            [520] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou520g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou520g.png",
             },
             [416] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou007g.skin",
@@ -3476,21 +3333,21 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/tou607g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou607g.png",
             },
-            [419] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou050g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou050g.png",
+            [441] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou040g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou040g.png",
             },
             [464] = {
                 ["msh"] = "out/zhujue/girl/headwear/ajysnv_headwear.skin",
                 ["tex"] = "out/zhujue/girl/headwear/ajysnv_headwear.png",
             },
-            [432] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou092g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou092g.png",
+            [363] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou307.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou307.png",
             },
-            [431] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou080g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou080g.png",
+            [422] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou078g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou078g.png",
             },
             [512] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou512g.skin",
@@ -3516,13 +3373,13 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/tou118g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou118g.png",
             },
-            [430] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou105g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou105g.png",
+            [431] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou080g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou080g.png",
             },
-            [429] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou095g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou095g.png",
+            [432] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou092g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou092g.png",
             },
             [513] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou513g.skin",
@@ -3540,9 +3397,9 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/tou064g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou064g.png",
             },
-            [427] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou062g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou062g.png",
+            [430] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou105g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou105g.png",
             },
             [465] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou311.skin",
@@ -3552,9 +3409,9 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/tou505g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou505g.png",
             },
-            [424] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou015g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou015g.png",
+            [427] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou062g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou062g.png",
             },
             [514] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou514g.skin",
@@ -3568,9 +3425,9 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/tou578g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou578g.png",
             },
-            [423] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou081g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou081g.png",
+            [426] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou042g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou042g.png",
             },
             [322] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou078g.skin",
@@ -3580,21 +3437,21 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/tou114g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou114g.png",
             },
-            [422] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou078g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou078g.png",
+            [425] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou061g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou061g.png",
             },
-            [421] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou079g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou079g.png",
+            [424] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou015g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou015g.png",
             },
             [515] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou515g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou515g.png",
             },
-            [420] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou073g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou073g.png",
+            [423] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou081g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou081g.png",
             },
             [418] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou012g.skin",
@@ -3604,37 +3461,37 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/tou083g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou083g.png",
             },
-            [415] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou060g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou060g.png",
+            [421] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou079g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou079g.png",
             },
             [466] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou008g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou008g.png",
             },
-            [413] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou010g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou010g.png",
+            [419] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou050g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou050g.png",
             },
-            [412] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou014g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou014g.png",
+            [415] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou060g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou060g.png",
             },
             [516] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou516g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou516g.png",
             },
-            [411] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou013g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou013g.png",
+            [413] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou010g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou010g.png",
             },
             [580] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou580g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou580g.png",
             },
-            [824] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou524g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou524g.png",
+            [412] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou014g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou014g.png",
             },
             [323] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou081g.skin",
@@ -3644,21 +3501,21 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/tou119g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou119g.png",
             },
-            [0] = {
-                ["msh"] = "out/zhujue/girl/hair/tou000g-1.skin",
-                ["tex"] = "out/zhujue/girl/hair/tou000g-1.png",
+            [411] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou013g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou013g.png",
             },
-            [263] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou307.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou307.png",
+            [824] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou524g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou524g.png",
             },
             [517] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou517g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou517g.png",
             },
-            [822] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou522g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou522g.png",
+            [0] = {
+                ["msh"] = "out/zhujue/girl/hair/tou000g-1.skin",
+                ["tex"] = "out/zhujue/girl/hair/tou000g-1.png",
             },
             [581] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou581g.skin",
@@ -3668,36 +3525,37 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/tou068g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou068g.png",
             },
+            [718] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou518g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou518g.png",
+            },
+            [620] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou520g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou520g.png",
+            },
+            [262] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou305.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou305.png",
+            },
             [278] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou517g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou517g.png",
             },
-            [624] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou524g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou524g.png",
+            [518] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou518g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou518g.png",
             },
-            [632] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou632g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou632g.png",
-            },
-            [363] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou307.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou307.png",
-            },
-            [260] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou301.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou301.png",
-            },
-            [362] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou305.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou305.png",
+            [318] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou012g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou012g.png",
             },
             [582] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou582g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou582g.png",
             },
-            [361] = {
-                ["msh"] = "headwear/Tou303.CMF",
+            [822] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou522g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou522g.png",
             },
             [324] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou015g.skin",
@@ -3707,21 +3565,21 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/tou113g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou113g.png",
             },
-            [522] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou522g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou522g.png",
+            [263] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou307.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou307.png",
             },
-            [360] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou301.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou301.png",
+            [624] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou524g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou524g.png",
             },
             [519] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou519g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou519g.png",
             },
-            [634] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou634g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou634g.png",
+            [632] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou632g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou632g.png",
             },
             [583] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou583g.skin",
@@ -3731,21 +3589,21 @@ return {
                 ["msh"] = "out/zhujue/girl/headwear/tou058g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou058g.png",
             },
-            [620] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou520g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou520g.png",
+            [260] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou301.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou301.png",
             },
-            [316] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou007g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou007g.png",
-            },
-            [518] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou518g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou518g.png",
+            [264] = {
+                ["msh"] = "out/zhujue/girl/headwear/ajysnv_headwear.skin",
+                ["tex"] = "out/zhujue/girl/headwear/ajysnv_headwear.png",
             },
             [312] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou014g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou014g.png",
+            },
+            [316] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou007g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou007g.png",
             },
         },
         ["tuis"] = {
@@ -4001,16 +3859,9 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui501g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui501g.png",
             },
-            [97] = {
-                ["msh"] = "trouser/Tui502G.CMF",
-            },
             [98] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui503g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui503g.png",
-            },
-            [100] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui000g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui000g.png",
             },
             [101] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui013g.skin",
@@ -4328,9 +4179,9 @@ return {
                 ["msh"] = "out/zhujue/girl/skin/skintui001g.skin",
                 ["tex"] = "out/zhujue/girl/skin/skintui001g.png",
             },
-            [775] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui575g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui575g.png",
+            [261] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui303.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui303.png",
             },
             [584] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui584g.skin",
@@ -4396,9 +4247,9 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui574g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui574g.png",
             },
-            [263] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui307.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui307.png",
+            [779] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui579g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui579g.png",
             },
             [811] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui511g.skin",
@@ -4512,21 +4363,13 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui525g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui525g.png",
             },
-            [432] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui041g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui041g.png",
-            },
-            [416] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui042g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui042g.png",
-            },
             [266] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui008g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui008g.png",
             },
-            [925] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui525g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui525g.png",
+            [427] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui118g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui118g.png",
             },
             [594] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui594g.skin",
@@ -4540,9 +4383,9 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui113g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui113g.png",
             },
-            [924] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui524g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui524g.png",
+            [465] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui311.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui311.png",
             },
             [722] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui522g.skin",
@@ -4552,9 +4395,9 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/niyanv_trouser.skin",
                 ["tex"] = "out/zhujue/girl/trouser/niyanv_trouser.png",
             },
-            [922] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui522g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui522g.png",
+            [925] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui525g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui525g.png",
             },
             [818] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui518g.skin",
@@ -4564,33 +4407,33 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui595g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui595g.png",
             },
+            [924] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui524g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui524g.png",
+            },
+            [922] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui522g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui522g.png",
+            },
             [920] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui520g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui520g.png",
-            },
-            [303] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui010g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui010g.png",
-            },
-            [415] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui061g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui061g.png",
             },
             [490] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui001g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui001g.png",
             },
+            [326] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui058g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui058g.png",
+            },
+            [417] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui062g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui062g.png",
+            },
             [918] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui518g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui518g.png",
-            },
-            [877] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui577g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui577g.png",
-            },
-            [911] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui511g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui511g.png",
             },
             [596] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui596g.skin",
@@ -4604,21 +4447,21 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui040g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui040g.png",
             },
-            [431] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui040g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui040g.png",
+            [879] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui579g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui579g.png",
             },
             [724] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui524g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui524g.png",
             },
-            [491] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui002g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui002g.png",
+            [911] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui511g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui511g.png",
             },
-            [979] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui579g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui579g.png",
+            [518] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui518g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui518g.png",
             },
             [820] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui520g.skin",
@@ -4628,9 +4471,21 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui597g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui597g.png",
             },
+            [491] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui002g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui002g.png",
+            },
+            [979] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui579g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui579g.png",
+            },
             [977] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui577g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui577g.png",
+            },
+            [725] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui525g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui525g.png",
             },
             [975] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui575g.skin",
@@ -4640,21 +4495,9 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui573g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui573g.png",
             },
-            [725] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui525g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui525g.png",
-            },
             [466] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui008g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui008g.png",
-            },
-            [465] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui311.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui311.png",
-            },
-            [402] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui014g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui014g.png",
             },
             [598] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui598g.skin",
@@ -4676,13 +4519,13 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/aijiyishengg_trouser.skin",
                 ["tex"] = "out/zhujue/girl/trouser/aijiyishengg_trouser.png",
             },
-            [425] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui068g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui068g.png",
+            [403] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui010g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui010g.png",
             },
-            [292] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui003g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui003g.png",
+            [418] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui086g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui086g.png",
             },
             [567] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui567g.skin",
@@ -4708,13 +4551,13 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui003g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui003g.png",
             },
-            [430] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui113g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui113g.png",
+            [432] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui041g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui041g.png",
             },
-            [429] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui119g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui119g.png",
+            [431] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui040g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui040g.png",
             },
             [568] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui568g.skin",
@@ -4728,13 +4571,13 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui062g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui062g.png",
             },
-            [428] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui114g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui114g.png",
+            [430] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui113g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui113g.png",
             },
-            [427] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui118g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui118g.png",
+            [429] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui119g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui119g.png",
             },
             [365] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui311.skin",
@@ -4744,9 +4587,9 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui505g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui505g.png",
             },
-            [426] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui058g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui058g.png",
+            [428] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui114g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui114g.png",
             },
             [569] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui569g.skin",
@@ -4764,6 +4607,14 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui303.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui303.png",
             },
+            [426] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui058g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui058g.png",
+            },
+            [425] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui068g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui068g.png",
+            },
             [424] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui083g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui083g.png",
@@ -4771,14 +4622,6 @@ return {
             [423] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui064g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui064g.png",
-            },
-            [422] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui092g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui092g.png",
-            },
-            [421] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui080g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui080g.png",
             },
             [825] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui525g.skin",
@@ -4792,6 +4635,18 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui086g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui086g.png",
             },
+            [422] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui092g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui092g.png",
+            },
+            [421] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui080g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui080g.png",
+            },
+            [366] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui008g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui008g.png",
+            },
             [420] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui105g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui105g.png",
@@ -4800,20 +4655,9 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui095g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui095g.png",
             },
-            [366] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui008g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui008g.png",
-            },
-            [418] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui086g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui086g.png",
-            },
-            [417] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui062g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui062g.png",
-            },
-            [571] = {
-                ["msh"] = "trouser/Tui571G.CMF",
+            [414] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui015g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui015g.png",
             },
             [603] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui603g.skin",
@@ -4831,17 +4675,17 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/niyanv_trouser.skin",
                 ["tex"] = "out/zhujue/girl/trouser/niyanv_trouser.png",
             },
-            [414] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui015g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui015g.png",
+            [416] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui042g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui042g.png",
+            },
+            [415] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui061g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui061g.png",
             },
             [413] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui081g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui081g.png",
-            },
-            [412] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui078g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui078g.png",
             },
             [572] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui572g.skin",
@@ -4855,6 +4699,10 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui095g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui095g.png",
             },
+            [412] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui078g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui078g.png",
+            },
             [411] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui079g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui079g.png",
@@ -4866,10 +4714,6 @@ return {
             [405] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui060g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui060g.png",
-            },
-            [517] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui517g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui517g.png",
             },
             [541] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui541g.skin",
@@ -4883,29 +4727,29 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui605g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui605g.png",
             },
-            [403] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui010g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui010g.png",
+            [316] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui042g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui042g.png",
             },
             [463] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui307.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui307.png",
             },
-            [361] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui303.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui303.png",
+            [402] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui014g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui014g.png",
             },
-            [850] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui550g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui550g.png",
+            [362] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui305.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui305.png",
             },
             [511] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui511g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui511g.png",
             },
-            [849] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui549g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui549g.png",
+            [850] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui550g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui550g.png",
             },
             [574] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui574g.skin",
@@ -4923,6 +4767,10 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui550g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui550g.png",
             },
+            [849] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui549g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui549g.png",
+            },
             [824] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui524g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui524g.png",
@@ -4935,10 +4783,6 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui002g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui002g.png",
             },
-            [390] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui001g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui001g.png",
-            },
             [575] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui575g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui575g.png",
@@ -4947,21 +4791,21 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui607g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui607g.png",
             },
-            [879] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui579g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui579g.png",
+            [390] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui001g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui001g.png",
             },
             [464] = {
                 ["msh"] = "out/zhujue/girl/trouser/aijiyishengg_trouser.skin",
                 ["tex"] = "out/zhujue/girl/trouser/aijiyishengg_trouser.png",
             },
+            [877] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui577g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui577g.png",
+            },
             [875] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui575g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui575g.png",
-            },
-            [873] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui573g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui573g.png",
             },
             [512] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui512g.skin",
@@ -4987,13 +4831,13 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui572g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui572g.png",
             },
+            [873] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui573g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui573g.png",
+            },
             [363] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui307.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui307.png",
-            },
-            [362] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui305.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui305.png",
             },
             [513] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui513g.skin",
@@ -5007,13 +4851,13 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui577g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui577g.png",
             },
+            [361] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui303.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui303.png",
+            },
             [360] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui301.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui301.png",
-            },
-            [326] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui058g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui058g.png",
             },
             [673] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui573g.skin",
@@ -5023,16 +4867,17 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui505g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui505g.png",
             },
-            [632] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui632g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui632g.png",
+            [264] = {
+                ["msh"] = "out/zhujue/girl/trouser/aijiyishengg_trouser.skin",
+                ["tex"] = "out/zhujue/girl/trouser/aijiyishengg_trouser.png",
             },
-            [774] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui574g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui574g.png",
+            [500] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui510g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui510g.png",
             },
-            [546] = {
-                ["msh"] = "trouser/Tui546G.CMF",
+            [520] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui520g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui520g.png",
             },
             [290] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui001g.skin",
@@ -5050,17 +4895,17 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui574g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui574g.png",
             },
-            [500] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui510g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui510g.png",
-            },
-            [520] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui520g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui520g.png",
+            [304] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui009g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui009g.png",
             },
             [777] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui577g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui577g.png",
+            },
+            [772] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui572g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui572g.png",
             },
             [547] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui547g.skin",
@@ -5074,17 +4919,13 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui511g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui511g.png",
             },
-            [261] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui303.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui303.png",
+            [600] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui600g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui600g.png",
             },
             [675] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui575g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui575g.png",
-            },
-            [600] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui600g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui600g.png",
             },
             [608] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui608g.skin",
@@ -5098,6 +4939,10 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui524g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui524g.png",
             },
+            [632] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui632g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui632g.png",
+            },
             [580] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui580g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui580g.png",
@@ -5110,21 +4955,21 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui064g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui064g.png",
             },
-            [264] = {
-                ["msh"] = "out/zhujue/girl/trouser/aijiyishengg_trouser.skin",
-                ["tex"] = "out/zhujue/girl/trouser/aijiyishengg_trouser.png",
+            [775] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui575g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui575g.png",
             },
-            [312] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui078g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui078g.png",
+            [262] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui305.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui305.png",
             },
-            [311] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui079g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui079g.png",
+            [263] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui307.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui307.png",
             },
-            [772] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui572g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui572g.png",
+            [517] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui517g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui517g.png",
             },
             [549] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui549g.skin",
@@ -5134,25 +4979,25 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui581g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui581g.png",
             },
-            [262] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui305.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui305.png",
+            [311] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui079g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui079g.png",
             },
-            [291] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui002g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui002g.png",
+            [312] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui078g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui078g.png",
             },
             [677] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui577g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui577g.png",
             },
+            [291] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui002g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui002g.png",
+            },
             [602] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui602g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui602g.png",
-            },
-            [304] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui009g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui009g.png",
             },
             [773] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui573g.skin",
@@ -5174,6 +5019,10 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui083g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui083g.png",
             },
+            [303] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui010g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui010g.png",
+            },
             [260] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui301.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui301.png",
@@ -5181,10 +5030,6 @@ return {
             [524] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui524g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui524g.png",
-            },
-            [316] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui042g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui042g.png",
             },
             [519] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui519g.skin",
@@ -5202,9 +5047,9 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui550g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui550g.png",
             },
-            [779] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui579g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui579g.png",
+            [292] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui003g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui003g.png",
             },
             [679] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui579g.skin",
@@ -5214,9 +5059,9 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui511g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui511g.png",
             },
-            [518] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui518g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui518g.png",
+            [774] = {
+                ["msh"] = "out/zhujue/girl/trouser/tui574g.skin",
+                ["tex"] = "out/zhujue/girl/trouser/tui574g.png",
             },
         },
         ["mianjus"] = {
@@ -5280,9 +5125,6 @@ return {
                 ["msh"] = "out/zhujue/girl/make/mianju114g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju114g.png",
             },
-            [17] = {
-                ["msh"] = "make/Mianju118G.CMF",
-            },
             [18] = {
                 ["msh"] = "out/zhujue/girl/make/mianju119g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju119g.png",
@@ -5310,8 +5152,6 @@ return {
             [24] = {
                 ["msh"] = "out/zhujue/girl/make/mianju060g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju060g.png",
-            },
-            [0] = {
             },
             [122] = {
                 ["msh"] = "out/zhujue/girl/make/mianju080g.skin",
@@ -5344,10 +5184,6 @@ return {
             [413] = {
                 ["msh"] = "out/zhujue/girl/make/mianju064g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju064g.png",
-            },
-            [417] = {
-                ["msh"] = "out/zhujue/girl/make/mianju118g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju118g.png",
             },
             [600] = {
                 ["msh"] = "out/zhujue/girl/make/mianju600g.skin",
@@ -5389,25 +5225,13 @@ return {
                 ["msh"] = "out/zhujue/girl/make/mianju506g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju506g.png",
             },
-            [409] = {
-                ["msh"] = "out/zhujue/girl/make/mianju095g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju095g.png",
-            },
             [522] = {
                 ["msh"] = "out/zhujue/girl/make/mianju522g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju522g.png",
             },
-            [307] = {
+            [202] = {
                 ["msh"] = "out/zhujue/girl/make/mianju086g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju086g.png",
-            },
-            [306] = {
-                ["msh"] = "out/zhujue/girl/make/mianju078g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju078g.png",
-            },
-            [546] = {
-                ["msh"] = "out/zhujue/girl/make/mianju546g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju546g.png",
             },
             [204] = {
                 ["msh"] = "out/zhujue/girl/make/mianju092g.skin",
@@ -5433,17 +5257,13 @@ return {
                 ["msh"] = "out/zhujue/girl/make/mianju083g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju083g.png",
             },
-            [216] = {
-                ["msh"] = "out/zhujue/girl/make/mianju114g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju114g.png",
+            [602] = {
+                ["msh"] = "out/zhujue/girl/make/mianju602g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju602g.png",
             },
-            [610] = {
-                ["msh"] = "out/zhujue/girl/make/mianju610g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju610g.png",
-            },
-            [422] = {
-                ["msh"] = "out/zhujue/girl/make/mianju080g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju080g.png",
+            [218] = {
+                ["msh"] = "out/zhujue/girl/make/mianju119g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju119g.png",
             },
             [222] = {
                 ["msh"] = "out/zhujue/girl/make/mianju080g.skin",
@@ -5457,6 +5277,26 @@ return {
                 ["msh"] = "out/zhujue/girl/make/mianju081g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju081g.png",
             },
+            [610] = {
+                ["msh"] = "out/zhujue/girl/make/mianju610g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju610g.png",
+            },
+            [306] = {
+                ["msh"] = "out/zhujue/girl/make/mianju078g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju078g.png",
+            },
+            [309] = {
+                ["msh"] = "out/zhujue/girl/make/mianju095g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju095g.png",
+            },
+            [547] = {
+                ["msh"] = "out/zhujue/girl/make/mianju547g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju547g.png",
+            },
+            [422] = {
+                ["msh"] = "out/zhujue/girl/make/mianju080g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju080g.png",
+            },
             [418] = {
                 ["msh"] = "out/zhujue/girl/make/mianju119g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju119g.png",
@@ -5465,13 +5305,9 @@ return {
                 ["msh"] = "out/zhujue/girl/make/mianju114g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju114g.png",
             },
-            [308] = {
-                ["msh"] = "out/zhujue/girl/make/mianju061g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju061g.png",
-            },
-            [547] = {
-                ["msh"] = "out/zhujue/girl/make/mianju547g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju547g.png",
+            [482] = {
+                ["msh"] = "out/zhujue/girl/make/mianju506g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju506g.png",
             },
             [412] = {
                 ["msh"] = "out/zhujue/girl/make/mianju058g.skin",
@@ -5481,22 +5317,6 @@ return {
                 ["msh"] = "out/zhujue/girl/make/mianju083g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju083g.png",
             },
-            [410] = {
-                ["msh"] = "out/zhujue/girl/make/mianju105g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju105g.png",
-            },
-            [482] = {
-                ["msh"] = "out/zhujue/girl/make/mianju506g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju506g.png",
-            },
-            [408] = {
-                ["msh"] = "out/zhujue/girl/make/mianju061g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju061g.png",
-            },
-            [304] = {
-                ["msh"] = "out/zhujue/girl/make/mianju092g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju092g.png",
-            },
             [603] = {
                 ["msh"] = "out/zhujue/girl/make/mianju603g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju603g.png",
@@ -5504,6 +5324,22 @@ return {
             [611] = {
                 ["msh"] = "out/zhujue/girl/make/mianju611g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju611g.png",
+            },
+            [410] = {
+                ["msh"] = "out/zhujue/girl/make/mianju105g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju105g.png",
+            },
+            [409] = {
+                ["msh"] = "out/zhujue/girl/make/mianju095g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju095g.png",
+            },
+            [408] = {
+                ["msh"] = "out/zhujue/girl/make/mianju061g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju061g.png",
+            },
+            [305] = {
+                ["msh"] = "out/zhujue/girl/make/mianju078g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju078g.png",
             },
             [406] = {
                 ["msh"] = "out/zhujue/girl/make/mianju078g.skin",
@@ -5513,25 +5349,9 @@ return {
                 ["msh"] = "out/zhujue/girl/make/mianju092g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju092g.png",
             },
-            [205] = {
-                ["msh"] = "out/zhujue/girl/make/mianju078g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju078g.png",
-            },
             [402] = {
                 ["msh"] = "out/zhujue/girl/make/mianju086g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju086g.png",
-            },
-            [317] = {
-                ["msh"] = "out/zhujue/girl/make/mianju118g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju118g.png",
-            },
-            [303] = {
-                ["msh"] = "out/zhujue/girl/make/mianju073g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju073g.png",
-            },
-            [315] = {
-                ["msh"] = "out/zhujue/girl/make/mianju113g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju113g.png",
             },
             [403] = {
                 ["msh"] = "out/zhujue/girl/make/mianju073g.skin",
@@ -5541,9 +5361,9 @@ return {
                 ["msh"] = "out/zhujue/girl/make/mianju086g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju086g.png",
             },
-            [309] = {
-                ["msh"] = "out/zhujue/girl/make/mianju095g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju095g.png",
+            [315] = {
+                ["msh"] = "out/zhujue/girl/make/mianju113g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju113g.png",
             },
             [415] = {
                 ["msh"] = "out/zhujue/girl/make/mianju113g.skin",
@@ -5557,16 +5377,17 @@ return {
                 ["msh"] = "out/zhujue/girl/make/mianju081g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju081g.png",
             },
-            [305] = {
-                ["msh"] = "out/zhujue/girl/make/mianju078g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju078g.png",
+            [307] = {
+                ["msh"] = "out/zhujue/girl/make/mianju086g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju086g.png",
             },
             [604] = {
                 ["msh"] = "out/zhujue/girl/make/mianju604g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju604g.png",
             },
-            [78] = {
-                ["msh"] = "make/niyanv_mianju.CMF",
+            [308] = {
+                ["msh"] = "out/zhujue/girl/make/mianju061g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju061g.png",
             },
             [312] = {
                 ["msh"] = "out/zhujue/girl/make/mianju058g.skin",
@@ -5576,9 +5397,9 @@ return {
                 ["msh"] = "out/zhujue/girl/make/mianju114g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju114g.png",
             },
-            [302] = {
-                ["msh"] = "out/zhujue/girl/make/mianju086g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju086g.png",
+            [304] = {
+                ["msh"] = "out/zhujue/girl/make/mianju092g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju092g.png",
             },
             [82] = {
                 ["msh"] = "out/zhujue/girl/make/mianju506g.skin",
@@ -5588,37 +5409,37 @@ return {
                 ["msh"] = "out/zhujue/girl/make/mianju525g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju525g.png",
             },
-            [301] = {
-                ["msh"] = "out/zhujue/girl/make/mianju042g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju042g.png",
-            },
-            [219] = {
-                ["msh"] = "out/zhujue/girl/make/mianju040g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju040g.png",
-            },
-            [203] = {
+            [303] = {
                 ["msh"] = "out/zhujue/girl/make/mianju073g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju073g.png",
             },
-            [107] = {
+            [302] = {
                 ["msh"] = "out/zhujue/girl/make/mianju086g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju086g.png",
             },
-            [201] = {
-                ["msh"] = "out/zhujue/girl/make/mianju042g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju042g.png",
+            [213] = {
+                ["msh"] = "out/zhujue/girl/make/mianju064g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju064g.png",
             },
-            [218] = {
-                ["msh"] = "out/zhujue/girl/make/mianju119g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju119g.png",
+            [112] = {
+                ["msh"] = "out/zhujue/girl/make/mianju058g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju058g.png",
             },
             [215] = {
                 ["msh"] = "out/zhujue/girl/make/mianju113g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju113g.png",
             },
-            [217] = {
-                ["msh"] = "out/zhujue/girl/make/mianju118g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju118g.png",
+            [301] = {
+                ["msh"] = "out/zhujue/girl/make/mianju042g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju042g.png",
+            },
+            [216] = {
+                ["msh"] = "out/zhujue/girl/make/mianju114g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju114g.png",
+            },
+            [598] = {
+                ["msh"] = "out/zhujue/girl/make/mianju598g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju598g.png",
             },
             [597] = {
                 ["msh"] = "out/zhujue/girl/make/mianju597g.skin",
@@ -5628,35 +5449,35 @@ return {
                 ["msh"] = "out/zhujue/girl/make/mianju605g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju605g.png",
             },
-            [109] = {
-                ["msh"] = "out/zhujue/girl/make/mianju095g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju095g.png",
+            [110] = {
+                ["msh"] = "out/zhujue/girl/make/mianju105g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju105g.png",
             },
-            [598] = {
-                ["msh"] = "out/zhujue/girl/make/mianju598g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju598g.png",
+            [606] = {
+                ["msh"] = "out/zhujue/girl/make/mianju606g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju606g.png",
             },
             [96] = {
                 ["msh"] = "out/zhujue/girl/make/mianju501g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju501g.png",
             },
-            [602] = {
-                ["msh"] = "out/zhujue/girl/make/mianju602g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju602g.png",
+            [101] = {
+                ["msh"] = "out/zhujue/girl/make/mianju042g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju042g.png",
             },
-            [202] = {
-                ["msh"] = "out/zhujue/girl/make/mianju086g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju086g.png",
+            [103] = {
+                ["msh"] = "out/zhujue/girl/make/mianju073g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju073g.png",
             },
             [526] = {
                 ["msh"] = "out/zhujue/girl/make/mianju526g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju526g.png",
             },
-            [112] = {
-                ["msh"] = "out/zhujue/girl/make/mianju058g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju058g.png",
+            [203] = {
+                ["msh"] = "out/zhujue/girl/make/mianju073g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju073g.png",
             },
-            [101] = {
+            [201] = {
                 ["msh"] = "out/zhujue/girl/make/mianju042g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju042g.png",
             },
@@ -5664,9 +5485,9 @@ return {
                 ["msh"] = "out/zhujue/girl/make/mianju086g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju086g.png",
             },
-            [103] = {
-                ["msh"] = "out/zhujue/girl/make/mianju073g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju073g.png",
+            [205] = {
+                ["msh"] = "out/zhujue/girl/make/mianju078g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju078g.png",
             },
             [207] = {
                 ["msh"] = "out/zhujue/girl/make/mianju086g.skin",
@@ -5680,21 +5501,21 @@ return {
                 ["msh"] = "out/zhujue/girl/make/mianju078g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju078g.png",
             },
-            [213] = {
-                ["msh"] = "out/zhujue/girl/make/mianju064g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju064g.png",
+            [107] = {
+                ["msh"] = "out/zhujue/girl/make/mianju086g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju086g.png",
             },
             [108] = {
                 ["msh"] = "out/zhujue/girl/make/mianju061g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju061g.png",
             },
-            [606] = {
-                ["msh"] = "out/zhujue/girl/make/mianju606g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju606g.png",
+            [109] = {
+                ["msh"] = "out/zhujue/girl/make/mianju095g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju095g.png",
             },
-            [110] = {
-                ["msh"] = "out/zhujue/girl/make/mianju105g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju105g.png",
+            [219] = {
+                ["msh"] = "out/zhujue/girl/make/mianju040g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju040g.png",
             },
             [313] = {
                 ["msh"] = "out/zhujue/girl/make/mianju064g.skin",
@@ -5720,9 +5541,9 @@ return {
                 ["msh"] = "out/zhujue/girl/make/mianju114g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju114g.png",
             },
-            [117] = {
-                ["msh"] = "out/zhujue/girl/make/mianju118g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju118g.png",
+            [546] = {
+                ["msh"] = "out/zhujue/girl/make/mianju546g.skin",
+                ["tex"] = "out/zhujue/girl/make/mianju546g.png",
             },
             [118] = {
                 ["msh"] = "out/zhujue/girl/make/mianju119g.skin",
@@ -5770,9 +5591,6 @@ return {
                 ["msh"] = "out/zhujue/girl/face/lian301.skin",
                 ["tex"] = "out/zhujue/girl/face/lian301.png",
             },
-            [11] = {
-                ["msh"] = "face/Lian303.CMF",
-            },
             [12] = {
                 ["msh"] = "out/zhujue/girl/face/lian305.skin",
                 ["tex"] = "out/zhujue/girl/face/lian305.png",
@@ -5780,9 +5598,6 @@ return {
             [13] = {
                 ["msh"] = "out/zhujue/girl/face/lian307.skin",
                 ["tex"] = "out/zhujue/girl/face/lian307.png",
-            },
-            [14] = {
-                ["msh"] = "face/Lian311.CMF",
             },
             [15] = {
                 ["msh"] = "out/zhujue/girl/face/zhangtai_face.skin",
@@ -5792,64 +5607,37 @@ return {
                 ["msh"] = "out/zhujue/girl/face/nvzhiyuan_face.skin",
                 ["tex"] = "out/zhujue/girl/face/nvzhiyuan_face.png",
             },
-            [17] = {
-                ["msh"] = "out/zhujue/girl/face/nvshangren_face.skin",
-                ["tex"] = "out/zhujue/girl/face/nvshangren_face.png",
-            },
-            [18] = {
-                ["msh"] = "out/zhujue/girl/face/nvlaoshi_face.skin",
-                ["tex"] = "out/zhujue/girl/face/nvlaoshi_face.png",
-            },
-            [19] = {
-                ["msh"] = "out/zhujue/girl/face/nvhushi_face.skin",
-                ["tex"] = "out/zhujue/girl/face/nvhushi_face.png",
-            },
             [20] = {
                 ["msh"] = "out/zhujue/girl/face/xianduruila_face.skin",
                 ["tex"] = "out/zhujue/girl/face/xianduruila_face.png",
+            },
+            [17] = {
+                ["msh"] = "out/zhujue/girl/face/nvshangren_face.skin",
+                ["tex"] = "out/zhujue/girl/face/nvshangren_face.png",
             },
             [21] = {
                 ["msh"] = "out/zhujue/girl/face/niyanv_face.skin",
                 ["tex"] = "out/zhujue/girl/face/niyanv_face.png",
             },
+            [553] = {
+                ["msh"] = "out/zhujue/girl/face/lian553g.skin",
+                ["tex"] = "out/zhujue/girl/face/lian553g.png",
+            },
             [22] = {
                 ["msh"] = "out/zhujue/girl/face/nongfu_face.skin",
                 ["tex"] = "out/zhujue/girl/face/nongfu_face.png",
+            },
+            [34] = {
+                ["msh"] = "out/zhujue/girl/face/lian010g.skin",
+                ["tex"] = "out/zhujue/girl/face/lian010g.png",
             },
             [23] = {
                 ["msh"] = "out/zhujue/girl/face/laoyu_face.skin",
                 ["tex"] = "out/zhujue/girl/face/laoyu_face.png",
             },
-            [30] = {
-                ["msh"] = "out/zhujue/girl/face/lian30101.skin",
-                ["tex"] = "out/zhujue/girl/face/lian30101.png",
-            },
-            [31] = {
-                ["msh"] = "out/zhujue/girl/face/niyanv_face01.skin",
-                ["tex"] = "out/zhujue/girl/face/niyanv_face01.png",
-            },
-            [32] = {
-                ["msh"] = "out/zhujue/girl/face/lian30501.skin",
-                ["tex"] = "out/zhujue/girl/face/lian30501.png",
-            },
             [0] = {
                 ["msh"] = "out/zhujue/girl/face/lian000g.skin",
                 ["tex"] = "out/zhujue/girl/face/lian000g.png",
-            },
-            [553] = {
-                ["msh"] = "out/zhujue/girl/face/lian553g.skin",
-                ["tex"] = "out/zhujue/girl/face/lian553g.png",
-            },
-            [98] = {
-                ["msh"] = "face/Lian503G.CMF",
-            },
-            [33] = {
-                ["msh"] = "out/zhujue/girl/face/lian30701.skin",
-                ["tex"] = "out/zhujue/girl/face/lian30701.png",
-            },
-            [34] = {
-                ["msh"] = "out/zhujue/girl/face/lian010g.skin",
-                ["tex"] = "out/zhujue/girl/face/lian010g.png",
             },
         },
         ["shentis"] = {
@@ -6128,10 +5916,6 @@ return {
             [99] = {
                 ["msh"] = "out/zhujue/girl/body/shen003g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen003g.png",
-            },
-            [100] = {
-                ["msh"] = "out/zhujue/girl/body/shen000g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen000g.png",
             },
             [101] = {
                 ["msh"] = "out/zhujue/girl/body/shen013g.skin",
@@ -6465,17 +6249,13 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen068g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen068g.png",
             },
-            [718] = {
-                ["msh"] = "out/zhujue/girl/body/shen518g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen518g.png",
+            [849] = {
+                ["msh"] = "out/zhujue/girl/body/shen549g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen549g.png",
             },
             [925] = {
                 ["msh"] = "out/zhujue/girl/body/shen525g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen525g.png",
-            },
-            [924] = {
-                ["msh"] = "out/zhujue/girl/body/shen524g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen524g.png",
             },
             [521] = {
                 ["msh"] = "out/zhujue/girl/body/shen521g.skin",
@@ -6497,6 +6277,10 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen549g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen549g.png",
             },
+            [924] = {
+                ["msh"] = "out/zhujue/girl/body/shen524g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen524g.png",
+            },
             [922] = {
                 ["msh"] = "out/zhujue/girl/body/shen522g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen522g.png",
@@ -6504,10 +6288,6 @@ return {
             [920] = {
                 ["msh"] = "out/zhujue/girl/body/shen520g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen520g.png",
-            },
-            [877] = {
-                ["msh"] = "out/zhujue/girl/body/shen577g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen577g.png",
             },
             [262] = {
                 ["msh"] = "out/zhujue/girl/body/shen305.skin",
@@ -6521,25 +6301,25 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen586g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen586g.png",
             },
-            [873] = {
-                ["msh"] = "out/zhujue/girl/body/shen573g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen573g.png",
+            [310] = {
+                ["msh"] = "out/zhujue/girl/body/shen073g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen073g.png",
             },
             [326] = {
                 ["msh"] = "out/zhujue/girl/body/shen058g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen058g.png",
             },
+            [413] = {
+                ["msh"] = "out/zhujue/girl/body/shen081g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen081g.png",
+            },
+            [873] = {
+                ["msh"] = "out/zhujue/girl/body/shen573g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen573g.png",
+            },
             [403] = {
                 ["msh"] = "out/zhujue/girl/body/shen010g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen010g.png",
-            },
-            [918] = {
-                ["msh"] = "out/zhujue/girl/body/shen518g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen518g.png",
-            },
-            [414] = {
-                ["msh"] = "out/zhujue/girl/body/shen015g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen015g.png",
             },
             [390] = {
                 ["msh"] = "out/zhujue/girl/body/shen001g.skin",
@@ -6557,21 +6337,21 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen574g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen574g.png",
             },
-            [411] = {
-                ["msh"] = "out/zhujue/girl/body/shen079g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen079g.png",
+            [918] = {
+                ["msh"] = "out/zhujue/girl/body/shen518g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen518g.png",
+            },
+            [415] = {
+                ["msh"] = "out/zhujue/girl/body/shen061g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen061g.png",
+            },
+            [412] = {
+                ["msh"] = "out/zhujue/girl/body/shen078g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen078g.png",
             },
             [911] = {
                 ["msh"] = "out/zhujue/girl/body/shen511g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen511g.png",
-            },
-            [0] = {
-                ["msh"] = "out/zhujue/girl/skin/skinshen001g.skin",
-                ["tex"] = "out/zhujue/girl/skin/skinshen001g.png",
-            },
-            [491] = {
-                ["msh"] = "out/zhujue/girl/body/shen002g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen002g.png",
             },
             [263] = {
                 ["msh"] = "out/zhujue/girl/body/shen307.skin",
@@ -6585,25 +6365,25 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen588g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen588g.png",
             },
-            [311] = {
-                ["msh"] = "out/zhujue/girl/body/shen079g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen079g.png",
+            [875] = {
+                ["msh"] = "out/zhujue/girl/body/shen575g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen575g.png",
             },
             [327] = {
                 ["msh"] = "out/zhujue/girl/body/shen118g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen118g.png",
             },
-            [423] = {
-                ["msh"] = "out/zhujue/girl/body/shen064g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen064g.png",
+            [0] = {
+                ["msh"] = "out/zhujue/girl/skin/skinshen001g.skin",
+                ["tex"] = "out/zhujue/girl/skin/skinshen001g.png",
             },
-            [979] = {
-                ["msh"] = "out/zhujue/girl/body/shen579g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen579g.png",
+            [491] = {
+                ["msh"] = "out/zhujue/girl/body/shen002g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen002g.png",
             },
-            [977] = {
-                ["msh"] = "out/zhujue/girl/body/shen577g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen577g.png",
+            [424] = {
+                ["msh"] = "out/zhujue/girl/body/shen083g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen083g.png",
             },
             [391] = {
                 ["msh"] = "out/zhujue/girl/body/shen002g.skin",
@@ -6617,17 +6397,17 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen589g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen589g.png",
             },
+            [979] = {
+                ["msh"] = "out/zhujue/girl/body/shen579g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen579g.png",
+            },
+            [977] = {
+                ["msh"] = "out/zhujue/girl/body/shen577g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen577g.png",
+            },
             [975] = {
                 ["msh"] = "out/zhujue/girl/body/shen575g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen575g.png",
-            },
-            [407] = {
-                ["msh"] = "out/zhujue/girl/body/shen011g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen011g.png",
-            },
-            [973] = {
-                ["msh"] = "out/zhujue/girl/body/shen573g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen573g.png",
             },
             [972] = {
                 ["msh"] = "out/zhujue/girl/body/shen572g.skin",
@@ -6657,9 +6437,9 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen114g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen114g.png",
             },
-            [466] = {
-                ["msh"] = "out/zhujue/girl/body/shen008g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen008g.png",
+            [620] = {
+                ["msh"] = "out/zhujue/girl/body/shen520g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen520g.png",
             },
             [360] = {
                 ["msh"] = "out/zhujue/girl/body/shen301.skin",
@@ -6681,25 +6461,25 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen591g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen591g.png",
             },
+            [973] = {
+                ["msh"] = "out/zhujue/girl/body/shen573g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen573g.png",
+            },
+            [466] = {
+                ["msh"] = "out/zhujue/girl/body/shen008g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen008g.png",
+            },
             [465] = {
                 ["msh"] = "out/zhujue/girl/body/shen311.skin",
                 ["tex"] = "out/zhujue/girl/body/shen311.png",
-            },
-            [556] = {
-                ["msh"] = "out/zhujue/girl/body/shen502g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen502g.png",
-            },
-            [650] = {
-                ["msh"] = "out/zhujue/girl/body/shen550g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen550g.png",
             },
             [974] = {
                 ["msh"] = "out/zhujue/girl/body/shen574g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen574g.png",
             },
-            [412] = {
-                ["msh"] = "out/zhujue/girl/body/shen078g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen078g.png",
+            [404] = {
+                ["msh"] = "out/zhujue/girl/body/shen009g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen009g.png",
             },
             [265] = {
                 ["msh"] = "out/zhujue/girl/body/shen311.skin",
@@ -6721,17 +6501,17 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen119g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen119g.png",
             },
-            [772] = {
-                ["msh"] = "out/zhujue/girl/body/shen572g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen572g.png",
+            [408] = {
+                ["msh"] = "out/zhujue/girl/body/shen012g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen012g.png",
             },
             [720] = {
                 ["msh"] = "out/zhujue/girl/body/shen520g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen520g.png",
             },
-            [432] = {
-                ["msh"] = "out/zhujue/girl/body/shen041g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen041g.png",
+            [772] = {
+                ["msh"] = "out/zhujue/girl/body/shen572g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen572g.png",
             },
             [529] = {
                 ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
@@ -6749,6 +6529,10 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen525g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen525g.png",
             },
+            [432] = {
+                ["msh"] = "out/zhujue/girl/body/shen041g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen041g.png",
+            },
             [431] = {
                 ["msh"] = "out/zhujue/girl/body/shen040g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen040g.png",
@@ -6760,10 +6544,6 @@ return {
             [429] = {
                 ["msh"] = "out/zhujue/girl/body/shen119g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen119g.png",
-            },
-            [428] = {
-                ["msh"] = "out/zhujue/girl/body/shen114g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen114g.png",
             },
             [266] = {
                 ["msh"] = "out/zhujue/girl/body/shen008g.skin",
@@ -6785,9 +6565,9 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen113g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen113g.png",
             },
-            [427] = {
-                ["msh"] = "out/zhujue/girl/body/shen118g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen118g.png",
+            [428] = {
+                ["msh"] = "out/zhujue/girl/body/shen114g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen114g.png",
             },
             [362] = {
                 ["msh"] = "out/zhujue/girl/body/shen305.skin",
@@ -6809,6 +6589,10 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen595g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen595g.png",
             },
+            [427] = {
+                ["msh"] = "out/zhujue/girl/body/shen118g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen118g.png",
+            },
             [426] = {
                 ["msh"] = "out/zhujue/girl/body/shen058g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen058g.png",
@@ -6817,17 +6601,13 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen068g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen068g.png",
             },
-            [424] = {
-                ["msh"] = "out/zhujue/girl/body/shen083g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen083g.png",
-            },
             [490] = {
                 ["msh"] = "out/zhujue/girl/body/shen001g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen001g.png",
             },
-            [422] = {
-                ["msh"] = "out/zhujue/girl/body/shen092g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen092g.png",
+            [423] = {
+                ["msh"] = "out/zhujue/girl/body/shen064g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen064g.png",
             },
             [532] = {
                 ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
@@ -6849,17 +6629,17 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen040g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen040g.png",
             },
-            [421] = {
-                ["msh"] = "out/zhujue/girl/body/shen080g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen080g.png",
+            [422] = {
+                ["msh"] = "out/zhujue/girl/body/shen092g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen092g.png",
             },
             [724] = {
                 ["msh"] = "out/zhujue/girl/body/shen524g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen524g.png",
             },
-            [420] = {
-                ["msh"] = "out/zhujue/girl/body/shen105g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen105g.png",
+            [421] = {
+                ["msh"] = "out/zhujue/girl/body/shen080g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen080g.png",
             },
             [533] = {
                 ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
@@ -6873,6 +6653,10 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen597g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen597g.png",
             },
+            [420] = {
+                ["msh"] = "out/zhujue/girl/body/shen105g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen105g.png",
+            },
             [419] = {
                 ["msh"] = "out/zhujue/girl/body/shen095g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen095g.png",
@@ -6881,33 +6665,29 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen086g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen086g.png",
             },
-            [417] = {
-                ["msh"] = "out/zhujue/girl/body/shen062g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen062g.png",
-            },
             [725] = {
                 ["msh"] = "out/zhujue/girl/body/shen525g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen525g.png",
             },
-            [416] = {
-                ["msh"] = "out/zhujue/girl/body/shen042g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen042g.png",
+            [417] = {
+                ["msh"] = "out/zhujue/girl/body/shen062g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen062g.png",
             },
             [534] = {
                 ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
                 ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
             },
-            [415] = {
-                ["msh"] = "out/zhujue/girl/body/shen061g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen061g.png",
+            [416] = {
+                ["msh"] = "out/zhujue/girl/body/shen042g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen042g.png",
             },
             [598] = {
                 ["msh"] = "out/zhujue/girl/body/shen598g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen598g.png",
             },
-            [630] = {
-                ["msh"] = "out/zhujue/girl/body/shen630g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen630g.png",
+            [316] = {
+                ["msh"] = "out/zhujue/girl/body/shen042g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen042g.png",
             },
             [332] = {
                 ["msh"] = "out/zhujue/girl/body/shen041g.skin",
@@ -6921,9 +6701,9 @@ return {
                 ["msh"] = "out/zhujue/girl/body/aijiyishengg_body.skin",
                 ["tex"] = "out/zhujue/girl/body/aijiyishengg_body.png",
             },
-            [413] = {
-                ["msh"] = "out/zhujue/girl/body/shen081g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen081g.png",
+            [650] = {
+                ["msh"] = "out/zhujue/girl/body/shen550g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen550g.png",
             },
             [535] = {
                 ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
@@ -6953,9 +6733,9 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen003g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen003g.png",
             },
-            [410] = {
-                ["msh"] = "out/zhujue/girl/body/shen073g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen073g.png",
+            [411] = {
+                ["msh"] = "out/zhujue/girl/body/shen079g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen079g.png",
             },
             [536] = {
                 ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
@@ -6969,17 +6749,17 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen013g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen013g.png",
             },
-            [317] = {
-                ["msh"] = "out/zhujue/girl/body/shen062g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen062g.png",
+            [632] = {
+                ["msh"] = "out/zhujue/girl/body/shen632g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen632g.png",
+            },
+            [410] = {
+                ["msh"] = "out/zhujue/girl/body/shen073g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen073g.png",
             },
             [409] = {
                 ["msh"] = "out/zhujue/girl/body/shen050g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen050g.png",
-            },
-            [408] = {
-                ["msh"] = "out/zhujue/girl/body/shen012g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen012g.png",
             },
             [365] = {
                 ["msh"] = "out/zhujue/girl/body/shen311.skin",
@@ -7013,13 +6793,13 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen553g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen553g.png",
             },
+            [407] = {
+                ["msh"] = "out/zhujue/girl/body/shen011g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen011g.png",
+            },
             [406] = {
                 ["msh"] = "out/zhujue/girl/body/shen007g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen007g.png",
-            },
-            [404] = {
-                ["msh"] = "out/zhujue/girl/body/shen009g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen009g.png",
             },
             [538] = {
                 ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
@@ -7057,8 +6837,9 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
                 ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
             },
-            [571] = {
-                ["msh"] = "body/Shen571G.CMF",
+            [414] = {
+                ["msh"] = "out/zhujue/girl/body/shen015g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen015g.png",
             },
             [603] = {
                 ["msh"] = "out/zhujue/girl/body/shen603g.skin",
@@ -7080,9 +6861,9 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen014g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen014g.png",
             },
-            [401] = {
-                ["msh"] = "out/zhujue/girl/body/shen013g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen013g.png",
+            [523] = {
+                ["msh"] = "out/zhujue/girl/body/shen523g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen523g.png",
             },
             [540] = {
                 ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
@@ -7100,21 +6881,21 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen095g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen095g.png",
             },
-            [523] = {
-                ["msh"] = "out/zhujue/girl/body/shen523g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen523g.png",
+            [401] = {
+                ["msh"] = "out/zhujue/girl/body/shen013g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen013g.png",
             },
-            [310] = {
-                ["msh"] = "out/zhujue/girl/body/shen073g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen073g.png",
+            [311] = {
+                ["msh"] = "out/zhujue/girl/body/shen079g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen079g.png",
             },
             [824] = {
                 ["msh"] = "out/zhujue/girl/body/shen524g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen524g.png",
             },
-            [822] = {
-                ["msh"] = "out/zhujue/girl/body/shen522g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen522g.png",
+            [524] = {
+                ["msh"] = "out/zhujue/girl/body/shen524g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen524g.png",
             },
             [541] = {
                 ["msh"] = "out/zhujue/girl/body/shen541g.skin",
@@ -7128,17 +6909,17 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen605g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen605g.png",
             },
-            [524] = {
-                ["msh"] = "out/zhujue/girl/body/shen524g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen524g.png",
+            [556] = {
+                ["msh"] = "out/zhujue/girl/body/shen502g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen502g.png",
             },
             [463] = {
                 ["msh"] = "out/zhujue/girl/body/shen307.skin",
                 ["tex"] = "out/zhujue/girl/body/shen307.png",
             },
-            [620] = {
-                ["msh"] = "out/zhujue/girl/body/shen520g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen520g.png",
+            [822] = {
+                ["msh"] = "out/zhujue/girl/body/shen522g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen522g.png",
             },
             [820] = {
                 ["msh"] = "out/zhujue/girl/body/shen520g.skin",
@@ -7148,9 +6929,9 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen511g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen511g.png",
             },
-            [316] = {
-                ["msh"] = "out/zhujue/girl/body/shen042g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen042g.png",
+            [525] = {
+                ["msh"] = "out/zhujue/girl/body/shen525g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen525g.png",
             },
             [574] = {
                 ["msh"] = "out/zhujue/girl/body/shen574g.skin",
@@ -7168,14 +6949,6 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen550g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen550g.png",
             },
-            [525] = {
-                ["msh"] = "out/zhujue/girl/body/shen525g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen525g.png",
-            },
-            [818] = {
-                ["msh"] = "out/zhujue/girl/body/shen518g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen518g.png",
-            },
             [526] = {
                 ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
                 ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
@@ -7183,6 +6956,14 @@ return {
             [622] = {
                 ["msh"] = "out/zhujue/girl/body/shen522g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen522g.png",
+            },
+            [818] = {
+                ["msh"] = "out/zhujue/girl/body/shen518g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen518g.png",
+            },
+            [718] = {
+                ["msh"] = "out/zhujue/girl/body/shen518g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen518g.png",
             },
             [575] = {
                 ["msh"] = "out/zhujue/girl/body/shen575g.skin",
@@ -7192,21 +6973,21 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen607g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen607g.png",
             },
-            [849] = {
-                ["msh"] = "out/zhujue/girl/body/shen549g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen549g.png",
+            [527] = {
+                ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
+                ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
             },
             [464] = {
                 ["msh"] = "out/zhujue/girl/body/aijiyishengg_body.skin",
                 ["tex"] = "out/zhujue/girl/body/aijiyishengg_body.png",
             },
-            [527] = {
-                ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
-                ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
-            },
             [850] = {
                 ["msh"] = "out/zhujue/girl/body/shen550g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen550g.png",
+            },
+            [528] = {
+                ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
+                ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
             },
             [512] = {
                 ["msh"] = "out/zhujue/girl/body/shen512g.skin",
@@ -7232,13 +7013,13 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen572g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen572g.png",
             },
-            [528] = {
-                ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
-                ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
-            },
             [560] = {
                 ["msh"] = "out/zhujue/girl/body/shen502g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen502g.png",
+            },
+            [624] = {
+                ["msh"] = "out/zhujue/girl/body/shen524g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen524g.png",
             },
             [513] = {
                 ["msh"] = "out/zhujue/girl/body/shen513g.skin",
@@ -7252,13 +7033,13 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen577g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen577g.png",
             },
-            [624] = {
-                ["msh"] = "out/zhujue/girl/body/shen524g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen524g.png",
-            },
             [879] = {
                 ["msh"] = "out/zhujue/girl/body/shen579g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen579g.png",
+            },
+            [877] = {
+                ["msh"] = "out/zhujue/girl/body/shen577g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen577g.png",
             },
             [673] = {
                 ["msh"] = "out/zhujue/girl/body/shen573g.skin",
@@ -7268,13 +7049,13 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen505g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen505g.png",
             },
-            [875] = {
-                ["msh"] = "out/zhujue/girl/body/shen575g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen575g.png",
-            },
             [530] = {
                 ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
                 ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
+            },
+            [722] = {
+                ["msh"] = "out/zhujue/girl/body/shen522g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen522g.png",
             },
             [546] = {
                 ["msh"] = "out/zhujue/girl/body/shen546g.skin",
@@ -7296,9 +7077,9 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen574g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen574g.png",
             },
-            [722] = {
-                ["msh"] = "out/zhujue/girl/body/shen522g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen522g.png",
+            [317] = {
+                ["msh"] = "out/zhujue/girl/body/shen062g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen062g.png",
             },
             [363] = {
                 ["msh"] = "out/zhujue/girl/body/shen307.skin",
@@ -7328,6 +7109,10 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen575g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen575g.png",
             },
+            [630] = {
+                ["msh"] = "out/zhujue/girl/body/shen630g.skin",
+                ["tex"] = "out/zhujue/girl/body/shen630g.png",
+            },
             [318] = {
                 ["msh"] = "out/zhujue/girl/body/shen086g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen086g.png",
@@ -7339,10 +7124,6 @@ return {
             [600] = {
                 ["msh"] = "out/zhujue/girl/body/shen600g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen600g.png",
-            },
-            [632] = {
-                ["msh"] = "out/zhujue/girl/body/shen632g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen632g.png",
             },
             [580] = {
                 ["msh"] = "out/zhujue/girl/body/shen580g.skin",
@@ -7740,9 +7521,6 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui079g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui079g.png",
             },
-            ["tous"] = {
-                ["msh"] = "face/Lian303.CMF",
-            },
             ["jiaos"] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie079g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie079g.png",
@@ -7813,10 +7591,6 @@ return {
             },
         },
         [14] = {
-            ["jiaos"] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie015g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie015g.png",
-            },
             ["shous"] = {
                 ["msh"] = "out/zhujue/girl/hand/shou015g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou015g.png",
@@ -7833,8 +7607,9 @@ return {
                 ["msh"] = "out/zhujue/girl/make/mianju083g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju083g.png",
             },
-            ["tous"] = {
-                ["msh"] = "face/Lian311.CMF",
+            ["jiaos"] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie015g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie015g.png",
             },
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen015g.skin",
@@ -7902,10 +7677,6 @@ return {
             },
         },
         [17] = {
-            ["jiaos"] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie062g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie062g.png",
-            },
             ["shous"] = {
                 ["msh"] = "out/zhujue/girl/hand/shou062g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou062g.png",
@@ -7918,12 +7689,13 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui062g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui062g.png",
             },
-            ["mianjus"] = {
-                ["msh"] = "make/Mianju118G.CMF",
-            },
             ["tous"] = {
                 ["msh"] = "out/zhujue/girl/face/nvshangren_face.skin",
                 ["tex"] = "out/zhujue/girl/face/nvshangren_face.png",
+            },
+            ["jiaos"] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie062g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie062g.png",
             },
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen062g.skin",
@@ -7931,10 +7703,6 @@ return {
             },
         },
         [18] = {
-            ["jiaos"] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie086g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie086g.png",
-            },
             ["shous"] = {
                 ["msh"] = "out/zhujue/girl/hand/shou086g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou086g.png",
@@ -7951,9 +7719,9 @@ return {
                 ["msh"] = "out/zhujue/girl/make/mianju119g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju119g.png",
             },
-            ["tous"] = {
-                ["msh"] = "out/zhujue/girl/face/nvlaoshi_face.skin",
-                ["tex"] = "out/zhujue/girl/face/nvlaoshi_face.png",
+            ["jiaos"] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie086g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie086g.png",
             },
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen086g.skin",
@@ -7961,10 +7729,6 @@ return {
             },
         },
         [19] = {
-            ["jiaos"] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie095g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie095g.png",
-            },
             ["shous"] = {
                 ["msh"] = "out/zhujue/girl/hand/shou095g.skin",
                 ["tex"] = "out/zhujue/girl/hand/shou095g.png",
@@ -7981,9 +7745,9 @@ return {
                 ["msh"] = "out/zhujue/girl/make/mianju040g.skin",
                 ["tex"] = "out/zhujue/girl/make/mianju040g.png",
             },
-            ["tous"] = {
-                ["msh"] = "out/zhujue/girl/face/nvhushi_face.skin",
-                ["tex"] = "out/zhujue/girl/face/nvhushi_face.png",
+            ["jiaos"] = {
+                ["msh"] = "out/zhujue/girl/shoe/xie095g.skin",
+                ["tex"] = "out/zhujue/girl/shoe/xie095g.png",
             },
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen095g.skin",
@@ -8259,10 +8023,6 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui113g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui113g.png",
             },
-            ["tous"] = {
-                ["msh"] = "out/zhujue/girl/face/lian30101.skin",
-                ["tex"] = "out/zhujue/girl/face/lian30101.png",
-            },
             ["jiaos"] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie113g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie113g.png",
@@ -8284,10 +8044,6 @@ return {
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui040g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui040g.png",
-            },
-            ["tous"] = {
-                ["msh"] = "out/zhujue/girl/face/niyanv_face01.skin",
-                ["tex"] = "out/zhujue/girl/face/niyanv_face01.png",
             },
             ["jiaos"] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie040g.skin",
@@ -8311,10 +8067,6 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui041g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui041g.png",
             },
-            ["tous"] = {
-                ["msh"] = "out/zhujue/girl/face/lian30501.skin",
-                ["tex"] = "out/zhujue/girl/face/lian30501.png",
-            },
             ["jiaos"] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie041g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie041g.png",
@@ -8325,17 +8077,9 @@ return {
             },
         },
         [33] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou064g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou064g.png",
-            },
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui550g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui550g.png",
-            },
-            ["tous"] = {
-                ["msh"] = "out/zhujue/girl/face/lian30701.skin",
-                ["tex"] = "out/zhujue/girl/face/lian30701.png",
             },
             ["jiaos"] = {
                 ["msh"] = "out/zhujue/girl/shoe/aijiyishengg_shoe.skin",
@@ -8344,6 +8088,10 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/aijiyishengg_body.skin",
                 ["tex"] = "out/zhujue/girl/body/aijiyishengg_body.png",
+            },
+            ["toushis"] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou064g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou064g.png",
             },
         },
         [34] = {
@@ -8444,48 +8192,6 @@ return {
                 ["tex"] = "out/zhujue/girl/body/niyanv_body.png",
             },
         },
-        [39] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou119g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou119g.png",
-            },
-        },
-        [40] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou113g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou113g.png",
-            },
-        },
-        [41] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou040g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou040g.png",
-            },
-        },
-        [42] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou041g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou041g.png",
-            },
-        },
-        [43] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/ajysnv_headwear.skin",
-                ["tex"] = "out/zhujue/girl/headwear/ajysnv_headwear.png",
-            },
-        },
-        [44] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou518g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou518g.png",
-            },
-        },
-        [48] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou517g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou517g.png",
-            },
-        },
         [60] = {
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui301.skin",
@@ -8508,9 +8214,6 @@ return {
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui303.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui303.png",
-            },
-            ["jiaos"] = {
-                ["msh"] = "shoe/Xie303.CMF",
             },
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen303.skin",
@@ -8543,9 +8246,6 @@ return {
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui307.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui307.png",
-            },
-            ["jiaos"] = {
-                ["msh"] = "shoe/Xie307.CMF",
             },
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen307.skin",
@@ -8615,14 +8315,6 @@ return {
             },
         },
         [67] = {
-            ["shous"] = {
-                ["msh"] = "out/zhujue/girl/hand/zhangtai_hand.skin",
-                ["tex"] = "out/zhujue/girl/hand/zhangtai_hand.png",
-            },
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/zhangtai_headwear.skin",
-                ["tex"] = "out/zhujue/girl/headwear/zhangtai_headwear.png",
-            },
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/zhangtai_trouser.skin",
                 ["tex"] = "out/zhujue/girl/trouser/zhangtai_trouser.png",
@@ -8635,16 +8327,12 @@ return {
                 ["msh"] = "out/zhujue/girl/body/zhangtai_body.skin",
                 ["tex"] = "out/zhujue/girl/body/zhangtai_body.png",
             },
+            ["toushis"] = {
+                ["msh"] = "out/zhujue/girl/headwear/zhangtai_headwear.skin",
+                ["tex"] = "out/zhujue/girl/headwear/zhangtai_headwear.png",
+            },
         },
         [68] = {
-            ["shous"] = {
-                ["msh"] = "out/zhujue/girl/hand/nvzhiyuan_hand.skin",
-                ["tex"] = "out/zhujue/girl/hand/nvzhiyuan_hand.png",
-            },
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/nvzhiyuan_headwear.skin",
-                ["tex"] = "out/zhujue/girl/headwear/nvzhiyuan_headwear.png",
-            },
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/nvzhiyuan_trouser.skin",
                 ["tex"] = "out/zhujue/girl/trouser/nvzhiyuan_trouser.png",
@@ -8657,16 +8345,12 @@ return {
                 ["msh"] = "out/zhujue/girl/body/nvzhiyuan_body.skin",
                 ["tex"] = "out/zhujue/girl/body/nvzhiyuan_body.png",
             },
+            ["toushis"] = {
+                ["msh"] = "out/zhujue/girl/headwear/nvzhiyuan_headwear.skin",
+                ["tex"] = "out/zhujue/girl/headwear/nvzhiyuan_headwear.png",
+            },
         },
         [69] = {
-            ["shous"] = {
-                ["msh"] = "out/zhujue/girl/hand/nvshangren_hand.skin",
-                ["tex"] = "out/zhujue/girl/hand/nvshangren_hand.png",
-            },
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/nvshangren_headwear.skin",
-                ["tex"] = "out/zhujue/girl/headwear/nvshangren_headwear.png",
-            },
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/nvshangren_trouser.skin",
                 ["tex"] = "out/zhujue/girl/trouser/nvshangren_trouser.png",
@@ -8679,16 +8363,12 @@ return {
                 ["msh"] = "out/zhujue/girl/body/nvshangren_body.skin",
                 ["tex"] = "out/zhujue/girl/body/nvshangren_body.png",
             },
+            ["toushis"] = {
+                ["msh"] = "out/zhujue/girl/headwear/nvshangren_headwear.skin",
+                ["tex"] = "out/zhujue/girl/headwear/nvshangren_headwear.png",
+            },
         },
         [70] = {
-            ["shous"] = {
-                ["msh"] = "out/zhujue/girl/hand/nvlaoshi_hand.skin",
-                ["tex"] = "out/zhujue/girl/hand/nvlaoshi_hand.png",
-            },
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/nvlaoshi_headwear.skin",
-                ["tex"] = "out/zhujue/girl/headwear/nvlaoshi_headwear.png",
-            },
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/nvlaoshi_trouser.skin",
                 ["tex"] = "out/zhujue/girl/trouser/nvlaoshi_trouser.png",
@@ -8701,16 +8381,12 @@ return {
                 ["msh"] = "out/zhujue/girl/body/nvlaoshi_body.skin",
                 ["tex"] = "out/zhujue/girl/body/nvlaoshi_body.png",
             },
+            ["toushis"] = {
+                ["msh"] = "out/zhujue/girl/headwear/nvlaoshi_headwear.skin",
+                ["tex"] = "out/zhujue/girl/headwear/nvlaoshi_headwear.png",
+            },
         },
         [71] = {
-            ["shous"] = {
-                ["msh"] = "out/zhujue/girl/hand/nvhushi_hand.skin",
-                ["tex"] = "out/zhujue/girl/hand/nvhushi_hand.png",
-            },
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/nvhushi_headwear.skin",
-                ["tex"] = "out/zhujue/girl/headwear/nvhushi_headwear.png",
-            },
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/nvhushi_trouser.skin",
                 ["tex"] = "out/zhujue/girl/trouser/nvhushi_trouser.png",
@@ -8723,15 +8399,12 @@ return {
                 ["msh"] = "out/zhujue/girl/body/nvhushi_body.skin",
                 ["tex"] = "out/zhujue/girl/body/nvhushi_body.png",
             },
+            ["toushis"] = {
+                ["msh"] = "out/zhujue/girl/headwear/nvhushi_headwear.skin",
+                ["tex"] = "out/zhujue/girl/headwear/nvhushi_headwear.png",
+            },
         },
         [72] = {
-            ["shous"] = {
-                ["msh"] = "out/zhujue/girl/hand/xianduruila_hand.skin",
-                ["tex"] = "out/zhujue/girl/hand/xianduruila_hand.png",
-            },
-            ["toushis"] = {
-                ["msh"] = "headwear/xianduruila_headwear.CMF",
-            },
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/xianduruila_trouser.skin",
                 ["tex"] = "out/zhujue/girl/trouser/xianduruila_trouser.png",
@@ -8746,14 +8419,6 @@ return {
             },
         },
         [73] = {
-            ["shous"] = {
-                ["msh"] = "out/zhujue/girl/hand/nongfu_hand.skin",
-                ["tex"] = "out/zhujue/girl/hand/nongfu_hand.png",
-            },
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/nongfu_headwear.skin",
-                ["tex"] = "out/zhujue/girl/headwear/nongfu_headwear.png",
-            },
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/nongfu_trouser.skin",
                 ["tex"] = "out/zhujue/girl/trouser/nongfu_trouser.png",
@@ -8766,16 +8431,12 @@ return {
                 ["msh"] = "out/zhujue/girl/body/nongfu_body.skin",
                 ["tex"] = "out/zhujue/girl/body/nongfu_body.png",
             },
+            ["toushis"] = {
+                ["msh"] = "out/zhujue/girl/headwear/nongfu_headwear.skin",
+                ["tex"] = "out/zhujue/girl/headwear/nongfu_headwear.png",
+            },
         },
         [74] = {
-            ["shous"] = {
-                ["msh"] = "out/zhujue/girl/hand/laoyu_hand.skin",
-                ["tex"] = "out/zhujue/girl/hand/laoyu_hand.png",
-            },
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/laoyu_headwear.skin",
-                ["tex"] = "out/zhujue/girl/headwear/laoyu_headwear.png",
-            },
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/laoyu_trouser.skin",
                 ["tex"] = "out/zhujue/girl/trouser/laoyu_trouser.png",
@@ -8787,6 +8448,10 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/laoyu_body.skin",
                 ["tex"] = "out/zhujue/girl/body/laoyu_body.png",
+            },
+            ["toushis"] = {
+                ["msh"] = "out/zhujue/girl/headwear/laoyu_headwear.skin",
+                ["tex"] = "out/zhujue/girl/headwear/laoyu_headwear.png",
             },
         },
         [78] = {
@@ -8801,9 +8466,6 @@ return {
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/niyanv_trouser.skin",
                 ["tex"] = "out/zhujue/girl/trouser/niyanv_trouser.png",
-            },
-            ["mianjus"] = {
-                ["msh"] = "make/niyanv_mianju.CMF",
             },
             ["jiaos"] = {
                 ["msh"] = "out/zhujue/girl/shoe/niyanv_shoe.skin",
@@ -8916,24 +8578,6 @@ return {
                 ["tex"] = "out/zhujue/girl/body/shen509g.png",
             },
         },
-        [85] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou30101.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou30101.png",
-            },
-        },
-        [86] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou30501.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou30501.png",
-            },
-        },
-        [87] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou30701.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou30701.png",
-            },
-        },
         [90] = {
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui001g.skin",
@@ -8946,9 +8590,6 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen001g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen001g.png",
-            },
-            ["toushis"] = {
-                ["msh"] = "headwear/Tou001G.CMF",
             },
         },
         [91] = {
@@ -8964,9 +8605,6 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen002g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen002g.png",
             },
-            ["toushis"] = {
-                ["msh"] = "headwear/Tou002G.CMF",
-            },
         },
         [92] = {
             ["tuis"] = {
@@ -8980,9 +8618,6 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen003g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen003g.png",
-            },
-            ["toushis"] = {
-                ["msh"] = "headwear/Tou003G.CMF",
             },
         },
         [93] = {
@@ -9062,9 +8697,6 @@ return {
             },
         },
         [97] = {
-            ["tuis"] = {
-                ["msh"] = "trouser/Tui502G.CMF",
-            },
             ["jiaos"] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie502g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie502g.png",
@@ -9079,16 +8711,9 @@ return {
             },
         },
         [98] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou503g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou503g.png",
-            },
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui503g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui503g.png",
-            },
-            ["tous"] = {
-                ["msh"] = "face/Lian503G.CMF",
             },
             ["jiaos"] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie503g.skin",
@@ -9097,6 +8722,10 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen503g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen503g.png",
+            },
+            ["toushis"] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou503g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou503g.png",
             },
         },
         [99] = {
@@ -9111,24 +8740,6 @@ return {
             ["toushis"] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou010g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou010g.png",
-            },
-        },
-        [100] = {
-            ["tuis"] = {
-                ["msh"] = "out/zhujue/girl/trouser/tui000g.skin",
-                ["tex"] = "out/zhujue/girl/trouser/tui000g.png",
-            },
-            ["jiaos"] = {
-                ["msh"] = "out/zhujue/girl/shoe/xie000g.skin",
-                ["tex"] = "out/zhujue/girl/shoe/xie000g.png",
-            },
-            ["shous"] = {
-                ["msh"] = "out/zhujue/girl/hand/shou000g.skin",
-                ["tex"] = "out/zhujue/girl/hand/shou000g.png",
-            },
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen000g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen000g.png",
             },
         },
         [101] = {
@@ -9516,10 +9127,6 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui062g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui062g.png",
             },
-            ["mianjus"] = {
-                ["msh"] = "out/zhujue/girl/make/mianju118g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju118g.png",
-            },
             ["jiaos"] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie062g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie062g.png",
@@ -9604,13 +9211,6 @@ return {
             },
         },
         [121] = {
-            ["shous"] = {
-                ["msh"] = "hand/Shou080G.CMF",
-            },
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou079g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou079g.png",
-            },
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui080g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui080g.png",
@@ -9622,6 +9222,10 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen080g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen080g.png",
+            },
+            ["toushis"] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou079g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou079g.png",
             },
         },
         [122] = {
@@ -9853,13 +9457,6 @@ return {
             },
         },
         [132] = {
-            ["shous"] = {
-                ["msh"] = "hand/Shou041G.CMF",
-            },
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou092g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou092g.png",
-            },
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui041g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui041g.png",
@@ -9872,23 +9469,9 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen041g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen041g.png",
             },
-        },
-        [133] = {
             ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou064g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou064g.png",
-            },
-        },
-        [134] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou083g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou083g.png",
-            },
-        },
-        [135] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou068g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou068g.png",
+                ["msh"] = "out/zhujue/girl/headwear/tou092g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou092g.png",
             },
         },
         [136] = {
@@ -9907,48 +9490,6 @@ return {
             ["toushis"] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou058g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou058g.png",
-            },
-        },
-        [137] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou118g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou118g.png",
-            },
-        },
-        [138] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou114g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou114g.png",
-            },
-        },
-        [139] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou119g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou119g.png",
-            },
-        },
-        [140] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou113g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou113g.png",
-            },
-        },
-        [141] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou040g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou040g.png",
-            },
-        },
-        [142] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou041g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou041g.png",
-            },
-        },
-        [144] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou518g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou518g.png",
             },
         },
         [160] = {
@@ -9974,15 +9515,9 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui303.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui303.png",
             },
-            ["jiaos"] = {
-                ["msh"] = "shoe/Xie303.CMF",
-            },
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen303.skin",
                 ["tex"] = "out/zhujue/girl/body/shen303.png",
-            },
-            ["toushis"] = {
-                ["msh"] = "headwear/Tou303.CMF",
             },
         },
         [162] = {
@@ -10007,9 +9542,6 @@ return {
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui307.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui307.png",
-            },
-            ["jiaos"] = {
-                ["msh"] = "shoe/Xie307.CMF",
             },
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen307.skin",
@@ -10120,12 +9652,6 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen505g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen505g.png",
-            },
-        },
-        [182] = {
-            ["mianjus"] = {
-                ["msh"] = "out/zhujue/girl/make/mianju506g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju506g.png",
             },
         },
         [190] = {
@@ -10555,10 +10081,6 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui062g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui062g.png",
             },
-            ["mianjus"] = {
-                ["msh"] = "out/zhujue/girl/make/mianju118g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju118g.png",
-            },
             ["jiaos"] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie062g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie062g.png",
@@ -10643,13 +10165,6 @@ return {
             },
         },
         [221] = {
-            ["shous"] = {
-                ["msh"] = "hand/Shou080G.CMF",
-            },
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou079g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou079g.png",
-            },
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui080g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui080g.png",
@@ -10661,6 +10176,10 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen080g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen080g.png",
+            },
+            ["toushis"] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou079g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou079g.png",
             },
         },
         [222] = {
@@ -10892,13 +10411,6 @@ return {
             },
         },
         [232] = {
-            ["shous"] = {
-                ["msh"] = "hand/Shou041G.CMF",
-            },
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou092g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou092g.png",
-            },
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui041g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui041g.png",
@@ -10911,23 +10423,9 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen041g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen041g.png",
             },
-        },
-        [233] = {
             ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou064g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou064g.png",
-            },
-        },
-        [234] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou083g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou083g.png",
-            },
-        },
-        [235] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou068g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou068g.png",
+                ["msh"] = "out/zhujue/girl/headwear/tou092g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou092g.png",
             },
         },
         [236] = {
@@ -10946,48 +10444,6 @@ return {
             ["toushis"] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou058g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou058g.png",
-            },
-        },
-        [237] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou118g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou118g.png",
-            },
-        },
-        [238] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou114g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou114g.png",
-            },
-        },
-        [239] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou119g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou119g.png",
-            },
-        },
-        [240] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou113g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou113g.png",
-            },
-        },
-        [241] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou040g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou040g.png",
-            },
-        },
-        [242] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou041g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou041g.png",
-            },
-        },
-        [244] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou518g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou518g.png",
             },
         },
         [260] = {
@@ -11013,15 +10469,9 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui303.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui303.png",
             },
-            ["jiaos"] = {
-                ["msh"] = "shoe/Xie303.CMF",
-            },
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen303.skin",
                 ["tex"] = "out/zhujue/girl/body/shen303.png",
-            },
-            ["toushis"] = {
-                ["msh"] = "headwear/Tou303.CMF",
             },
         },
         [262] = {
@@ -11046,9 +10496,6 @@ return {
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui307.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui307.png",
-            },
-            ["jiaos"] = {
-                ["msh"] = "shoe/Xie307.CMF",
             },
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen307.skin",
@@ -11159,12 +10606,6 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen505g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen505g.png",
-            },
-        },
-        [282] = {
-            ["mianjus"] = {
-                ["msh"] = "out/zhujue/girl/make/mianju506g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju506g.png",
             },
         },
         [290] = {
@@ -11594,10 +11035,6 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui062g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui062g.png",
             },
-            ["mianjus"] = {
-                ["msh"] = "out/zhujue/girl/make/mianju118g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju118g.png",
-            },
             ["jiaos"] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie062g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie062g.png",
@@ -11682,13 +11119,6 @@ return {
             },
         },
         [321] = {
-            ["shous"] = {
-                ["msh"] = "hand/Shou080G.CMF",
-            },
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou079g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou079g.png",
-            },
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui080g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui080g.png",
@@ -11700,6 +11130,10 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen080g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen080g.png",
+            },
+            ["toushis"] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou079g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou079g.png",
             },
         },
         [322] = {
@@ -11931,13 +11365,6 @@ return {
             },
         },
         [332] = {
-            ["shous"] = {
-                ["msh"] = "hand/Shou041G.CMF",
-            },
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou092g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou092g.png",
-            },
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui041g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui041g.png",
@@ -11950,23 +11377,9 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen041g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen041g.png",
             },
-        },
-        [333] = {
             ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou064g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou064g.png",
-            },
-        },
-        [334] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou083g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou083g.png",
-            },
-        },
-        [335] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou068g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou068g.png",
+                ["msh"] = "out/zhujue/girl/headwear/tou092g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou092g.png",
             },
         },
         [336] = {
@@ -11981,48 +11394,6 @@ return {
             ["toushis"] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou058g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou058g.png",
-            },
-        },
-        [337] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou118g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou118g.png",
-            },
-        },
-        [338] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou114g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou114g.png",
-            },
-        },
-        [339] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou119g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou119g.png",
-            },
-        },
-        [340] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou113g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou113g.png",
-            },
-        },
-        [341] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou040g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou040g.png",
-            },
-        },
-        [342] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou041g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou041g.png",
-            },
-        },
-        [344] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou518g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou518g.png",
             },
         },
         [360] = {
@@ -12048,15 +11419,9 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui303.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui303.png",
             },
-            ["jiaos"] = {
-                ["msh"] = "shoe/Xie303.CMF",
-            },
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen303.skin",
                 ["tex"] = "out/zhujue/girl/body/shen303.png",
-            },
-            ["toushis"] = {
-                ["msh"] = "headwear/Tou303.CMF",
             },
         },
         [362] = {
@@ -12081,9 +11446,6 @@ return {
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui307.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui307.png",
-            },
-            ["jiaos"] = {
-                ["msh"] = "shoe/Xie307.CMF",
             },
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen307.skin",
@@ -12194,12 +11556,6 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen505g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen505g.png",
-            },
-        },
-        [382] = {
-            ["mianjus"] = {
-                ["msh"] = "out/zhujue/girl/make/mianju506g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju506g.png",
             },
         },
         [390] = {
@@ -12629,10 +11985,6 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui062g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui062g.png",
             },
-            ["mianjus"] = {
-                ["msh"] = "out/zhujue/girl/make/mianju118g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju118g.png",
-            },
             ["jiaos"] = {
                 ["msh"] = "out/zhujue/girl/shoe/xie062g.skin",
                 ["tex"] = "out/zhujue/girl/shoe/xie062g.png",
@@ -12717,13 +12069,6 @@ return {
             },
         },
         [421] = {
-            ["shous"] = {
-                ["msh"] = "hand/Shou080G.CMF",
-            },
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou079g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou079g.png",
-            },
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui080g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui080g.png",
@@ -12735,6 +12080,10 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen080g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen080g.png",
+            },
+            ["toushis"] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou079g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou079g.png",
             },
         },
         [422] = {
@@ -12966,13 +12315,6 @@ return {
             },
         },
         [432] = {
-            ["shous"] = {
-                ["msh"] = "hand/Shou041G.CMF",
-            },
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou092g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou092g.png",
-            },
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui041g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui041g.png",
@@ -12985,23 +12327,9 @@ return {
                 ["msh"] = "out/zhujue/girl/body/shen041g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen041g.png",
             },
-        },
-        [433] = {
             ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou064g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou064g.png",
-            },
-        },
-        [434] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou083g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou083g.png",
-            },
-        },
-        [435] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou068g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou068g.png",
+                ["msh"] = "out/zhujue/girl/headwear/tou092g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou092g.png",
             },
         },
         [436] = {
@@ -13020,48 +12348,6 @@ return {
             ["toushis"] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou058g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou058g.png",
-            },
-        },
-        [437] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou118g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou118g.png",
-            },
-        },
-        [438] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou114g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou114g.png",
-            },
-        },
-        [439] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou119g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou119g.png",
-            },
-        },
-        [440] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou113g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou113g.png",
-            },
-        },
-        [441] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou040g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou040g.png",
-            },
-        },
-        [442] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou041g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou041g.png",
-            },
-        },
-        [444] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou518g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou518g.png",
             },
         },
         [460] = {
@@ -13087,15 +12373,9 @@ return {
                 ["msh"] = "out/zhujue/girl/trouser/tui303.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui303.png",
             },
-            ["jiaos"] = {
-                ["msh"] = "shoe/Xie303.CMF",
-            },
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen303.skin",
                 ["tex"] = "out/zhujue/girl/body/shen303.png",
-            },
-            ["toushis"] = {
-                ["msh"] = "headwear/Tou303.CMF",
             },
         },
         [462] = {
@@ -13120,9 +12400,6 @@ return {
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui307.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui307.png",
-            },
-            ["jiaos"] = {
-                ["msh"] = "shoe/Xie307.CMF",
             },
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen307.skin",
@@ -13235,12 +12512,6 @@ return {
                 ["tex"] = "out/zhujue/girl/body/shen505g.png",
             },
         },
-        [482] = {
-            ["mianjus"] = {
-                ["msh"] = "out/zhujue/girl/make/mianju506g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju506g.png",
-            },
-        },
         [490] = {
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui001g.skin",
@@ -13342,10 +12613,6 @@ return {
             },
         },
         [0] = {
-            ["jiaos"] = {
-                ["msh"] = "out/zhujue/girl/skin/skinxie001g.skin",
-                ["tex"] = "out/zhujue/girl/skin/skinxie001g.png",
-            },
             ["shous"] = {
                 ["msh"] = "out/zhujue/girl/skin/skinshou001g.skin",
                 ["tex"] = "out/zhujue/girl/skin/skinshou001g.png",
@@ -13358,11 +12625,13 @@ return {
                 ["msh"] = "out/zhujue/girl/skin/skintui001g.skin",
                 ["tex"] = "out/zhujue/girl/skin/skintui001g.png",
             },
-            ["mianjus"] = {
-            },
             ["tous"] = {
                 ["msh"] = "out/zhujue/girl/face/lian000g.skin",
                 ["tex"] = "out/zhujue/girl/face/lian000g.png",
+            },
+            ["jiaos"] = {
+                ["msh"] = "out/zhujue/girl/skin/skinxie001g.skin",
+                ["tex"] = "out/zhujue/girl/skin/skinxie001g.png",
             },
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/skin/skinshen001g.skin",
@@ -13626,13 +12895,6 @@ return {
             },
         },
         [587] = {
-            ["shous"] = {
-                ["msh"] = "hand/Shou587G.CMF",
-            },
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou587g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou587g.png",
-            },
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui587g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui587g.png",
@@ -13644,6 +12906,10 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen587g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen587g.png",
+            },
+            ["toushis"] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou587g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou587g.png",
             },
         },
         [874] = {
@@ -13680,12 +12946,6 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen524g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen524g.png",
-            },
-        },
-        [556] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen502g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen502g.png",
             },
         },
         [588] = {
@@ -13752,12 +13012,6 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen525g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen525g.png",
-            },
-        },
-        [557] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen502g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen502g.png",
             },
         },
         [589] = {
@@ -13830,12 +13084,6 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
                 ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
-            },
-        },
-        [558] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen502g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen502g.png",
             },
         },
         [590] = {
@@ -13918,26 +13166,7 @@ return {
                 ["tex"] = "out/zhujue/girl/body/shen550g.png",
             },
         },
-        [527] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
-                ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
-            },
-        },
-        [559] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen502g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen502g.png",
-            },
-        },
         [591] = {
-            ["shous"] = {
-                ["msh"] = "hand/Shou591G.CMF",
-            },
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou591g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou591g.png",
-            },
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui591g.skin",
                 ["tex"] = "out/zhujue/girl/trouser/tui591g.png",
@@ -13949,6 +13178,10 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen591g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen591g.png",
+            },
+            ["toushis"] = {
+                ["msh"] = "out/zhujue/girl/headwear/tou591g.skin",
+                ["tex"] = "out/zhujue/girl/headwear/tou591g.png",
             },
         },
         [974] = {
@@ -13963,18 +13196,6 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen574g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen574g.png",
-            },
-        },
-        [528] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
-                ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
-            },
-        },
-        [560] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen502g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen502g.png",
             },
         },
         [592] = {
@@ -14053,18 +13274,6 @@ return {
                 ["tex"] = "out/zhujue/girl/body/shen520g.png",
             },
         },
-        [529] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
-                ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
-            },
-        },
-        [561] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen502g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen502g.png",
-            },
-        },
         [593] = {
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui593g.skin",
@@ -14099,18 +13308,6 @@ return {
             ["toushis"] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou525g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou525g.png",
-            },
-        },
-        [530] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
-                ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
-            },
-        },
-        [562] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen502g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen502g.png",
             },
         },
         [594] = {
@@ -14151,12 +13348,6 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen522g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen522g.png",
-            },
-        },
-        [531] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
-                ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
             },
         },
         [818] = {
@@ -14203,18 +13394,6 @@ return {
                 ["tex"] = "out/zhujue/girl/body/shen595g.png",
             },
         },
-        [532] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
-                ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
-            },
-        },
-        [564] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen502g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen502g.png",
-            },
-        },
         [596] = {
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui596g.skin",
@@ -14253,12 +13432,6 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen524g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen524g.png",
-            },
-        },
-        [533] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
-                ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
             },
         },
         [820] = {
@@ -14323,12 +13496,6 @@ return {
                 ["tex"] = "out/zhujue/girl/headwear/tou525g.png",
             },
         },
-        [534] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
-                ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
-            },
-        },
         [598] = {
             ["shous"] = {
                 ["msh"] = "out/zhujue/girl/hand/shou598g.skin",
@@ -14385,12 +13552,6 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen549g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen549g.png",
-            },
-        },
-        [535] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
-                ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
             },
         },
         [567] = {
@@ -14495,12 +13656,6 @@ return {
                 ["tex"] = "out/zhujue/girl/body/shen550g.png",
             },
         },
-        [536] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
-                ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
-            },
-        },
         [568] = {
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui568g.skin",
@@ -14565,12 +13720,6 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen632g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen632g.png",
-            },
-        },
-        [537] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
-                ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
             },
         },
         [569] = {
@@ -14661,12 +13810,6 @@ return {
                 ["tex"] = "out/zhujue/girl/body/shen520g.png",
             },
         },
-        [538] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
-                ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
-            },
-        },
         [825] = {
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui525g.skin",
@@ -14719,26 +13862,6 @@ return {
             ["toushis"] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou634g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou634g.png",
-            },
-        },
-        [539] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
-                ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
-            },
-        },
-        [571] = {
-            ["tuis"] = {
-                ["msh"] = "trouser/Tui571G.CMF",
-            },
-            ["jiaos"] = {
-                ["msh"] = "shoe/Xie571G.CMF",
-            },
-            ["shentis"] = {
-                ["msh"] = "body/Shen571G.CMF",
-            },
-            ["toushis"] = {
-                ["msh"] = "headwear/Tou571G.CMF",
             },
         },
         [603] = {
@@ -14805,12 +13928,6 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen522g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen522g.png",
-            },
-        },
-        [540] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen526g-00.skin",
-                ["tex"] = "out/zhujue/girl/body/shen526g-00.png",
             },
         },
         [572] = {
@@ -15169,12 +14286,6 @@ return {
                 ["tex"] = "out/zhujue/girl/body/shen577g.png",
             },
         },
-        [609] = {
-            ["mianjus"] = {
-                ["msh"] = "out/zhujue/girl/make/mianju609g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju609g.png",
-            },
-        },
         [673] = {
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui573g.skin",
@@ -15189,19 +14300,10 @@ return {
                 ["tex"] = "out/zhujue/girl/body/shen573g.png",
             },
         },
-        [514] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou514g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou514g.png",
-            },
-        },
         [546] = {
             ["toushis"] = {
                 ["msh"] = "out/zhujue/girl/headwear/tou546g.skin",
                 ["tex"] = "out/zhujue/girl/headwear/tou546g.png",
-            },
-            ["tuis"] = {
-                ["msh"] = "trouser/Tui546G.CMF",
             },
             ["mianjus"] = {
                 ["msh"] = "out/zhujue/girl/make/mianju546g.skin",
@@ -15230,12 +14332,6 @@ return {
                 ["tex"] = "out/zhujue/girl/headwear/tou578g.png",
             },
         },
-        [610] = {
-            ["mianjus"] = {
-                ["msh"] = "out/zhujue/girl/make/mianju610g.skin",
-                ["tex"] = "out/zhujue/girl/make/mianju610g.png",
-            },
-        },
         [674] = {
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui574g.skin",
@@ -15248,12 +14344,6 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen574g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen574g.png",
-            },
-        },
-        [515] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou515g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou515g.png",
             },
         },
         [547] = {
@@ -15364,12 +14454,6 @@ return {
             ["shentis"] = {
                 ["msh"] = "out/zhujue/girl/body/shen575g.skin",
                 ["tex"] = "out/zhujue/girl/body/shen575g.png",
-            },
-        },
-        [516] = {
-            ["toushis"] = {
-                ["msh"] = "out/zhujue/girl/headwear/tou516g.skin",
-                ["tex"] = "out/zhujue/girl/headwear/tou516g.png",
             },
         },
         [973] = {
@@ -15780,18 +14864,6 @@ return {
                 ["tex"] = "out/zhujue/girl/headwear/tou583g.png",
             },
         },
-        [565] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen502g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen502g.png",
-            },
-        },
-        [563] = {
-            ["shentis"] = {
-                ["msh"] = "out/zhujue/girl/body/shen502g.skin",
-                ["tex"] = "out/zhujue/girl/body/shen502g.png",
-            },
-        },
         [679] = {
             ["tuis"] = {
                 ["msh"] = "out/zhujue/girl/trouser/tui579g.skin",
@@ -15892,13 +14964,6 @@ return {
         36,
         37,
         38,
-        39,
-        40,
-        41,
-        42,
-        43,
-        44,
-        48,
         60,
         61,
         62,
@@ -15920,9 +14985,6 @@ return {
         82,
         83,
         84,
-        85,
-        86,
-        87,
         90,
         91,
         92,
@@ -15933,7 +14995,6 @@ return {
         97,
         98,
         99,
-        100,
         101,
         102,
         103,
@@ -15966,17 +15027,7 @@ return {
         130,
         131,
         132,
-        133,
-        134,
-        135,
         136,
-        137,
-        138,
-        139,
-        140,
-        141,
-        142,
-        144,
         160,
         161,
         162,
@@ -15986,7 +15037,6 @@ return {
         166,
         178,
         181,
-        182,
         190,
         191,
         192,
@@ -16022,17 +15072,7 @@ return {
         230,
         231,
         232,
-        233,
-        234,
-        235,
         236,
-        237,
-        238,
-        239,
-        240,
-        241,
-        242,
-        244,
         260,
         261,
         262,
@@ -16042,7 +15082,6 @@ return {
         266,
         278,
         281,
-        282,
         290,
         291,
         292,
@@ -16078,17 +15117,7 @@ return {
         330,
         331,
         332,
-        333,
-        334,
-        335,
         336,
-        337,
-        338,
-        339,
-        340,
-        341,
-        342,
-        344,
         360,
         361,
         362,
@@ -16098,7 +15127,6 @@ return {
         366,
         378,
         381,
-        382,
         390,
         391,
         392,
@@ -16134,17 +15162,7 @@ return {
         430,
         431,
         432,
-        433,
-        434,
-        435,
         436,
-        437,
-        438,
-        439,
-        440,
-        441,
-        442,
-        444,
         460,
         461,
         462,
@@ -16154,7 +15172,6 @@ return {
         466,
         478,
         481,
-        482,
         490,
         491,
         492,
@@ -16162,9 +15179,6 @@ return {
         511,
         512,
         513,
-        514,
-        515,
-        516,
         517,
         518,
         519,
@@ -16175,20 +15189,6 @@ return {
         524,
         525,
         526,
-        527,
-        528,
-        529,
-        530,
-        531,
-        532,
-        533,
-        534,
-        535,
-        536,
-        537,
-        538,
-        539,
-        540,
         541,
         544,
         545,
@@ -16200,20 +15200,9 @@ return {
         553,
         554,
         555,
-        556,
-        557,
-        558,
-        559,
-        560,
-        561,
-        562,
-        563,
-        564,
-        565,
         567,
         568,
         569,
-        571,
         572,
         573,
         574,
@@ -16251,8 +15240,6 @@ return {
         606,
         607,
         608,
-        609,
-        610,
         611,
         618,
         620,

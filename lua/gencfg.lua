@@ -3,7 +3,7 @@ require("util")
 
 function getset(msh, dsc)
     if not dsc then
-        return {msh = msh}
+        return nil
     end
 
 
@@ -12,7 +12,7 @@ function getset(msh, dsc)
         fd = io.open("../out/zhujue/girl/"..dsc, "r")
     end
     if not fd then
-        return {msh = msh}
+        return nil
     end
 
     msh = "out/zhujue/girl/"..string.lower(msh)
@@ -32,7 +32,20 @@ function getset(msh, dsc)
     tt = string.gsub(tt, "-", "%%-")
     tex = string.gsub(msh, tt, tex)
 
-    return {msh = msh, tex = tex}
+    if tex then
+        local pic = io.open("../"..tex, "r")
+        if pic then
+            pic:close()
+        else
+            tex = nil
+        end
+    end
+
+    if msh and tex then
+        return {msh = msh, tex = tex}
+    else
+        return nil
+    end
 end
 
 
@@ -57,16 +70,34 @@ for i,v in ipairs(xml.root.components:children()) do
     end
 end
 
+local del = {}
 local ids = {}
 for i,v in pairs(suit) do
-    print("["..i.."]-----------------------")
-    table.insert(ids, i)
+    --print("["..i.."]-----------------------")
+    local n = 0
     for k,c in pairs(v) do
-        print(k, c.msh, c.tex)
+        --print(k, c.msh, c.tex)
+        n = n + 1
+    end
+    if n > 1 then
+        table.insert(ids, i)
+    else
+        table.insert(del, i)
     end
 end
 table.sort(ids)
 
+for i,v in ipairs(del) do
+    suit[v] = nil
+end
+
+for i,d in ipairs(ids) do
+    print("["..i.."]-----------------------")
+    v = suit[d]
+    for k,c in pairs(v or {}) do
+        print(k, c.msh, c.tex)
+    end
+end
 
 local cfg = {}
 cfg.ids = ids
